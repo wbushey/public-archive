@@ -1,0 +1,14 @@
+		<div id="contactUs" class="mainContent">
+          <form id="emailForm" action="{getAugViewUrl()}" method="post"/>
+            <dl>
+              <dt>Subject:</dt>
+              <dd><input type="text" name="email_subject" value="{email_subject}"/></dd>
+              <dt>Reply To Email Address:</dt>
+              <dd><input type="text" name="email_from_address" value="{email_reply_address}"/></dd>
+              <dt>Message:</dt>
+              <dd><textarea name="email_body" id="email_body"></textarea></dd>
+            </dl>
+            <input type="submit" class="submitButton" value="Send Email" name="emailSubmit"/>
+          </form>
+          
+         </div>

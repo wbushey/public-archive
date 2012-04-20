@@ -1,0 +1,45 @@
+<div id="search_options">
+    <form action="{getViewUrl()}" method="get">
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name" value="{name_query}"/>
+        <label for="has_fight">In A Fight?</label>
+        {has_fight_options:h}
+        <label for="has_picture">Have A Picture?</label>
+        {has_picture_options:h}
+        <label for="l">Results Per Page:</label>
+        <input type="text" name="l" id="l" size="4" value="{pg.limit}"/>
+        <input type="submit" value="Search"/>
+    </form>
+</div>
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>
+<ul>
+Results: {pg.total_results}
+{foreach:search_results,result}
+    <li><a href="{getViewUrl()}?id={result.getId()}">{result.getName()}</a></li>
+{end:}
+</ul>
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>

@@ -1,0 +1,28 @@
+        <div id="sharedBackground" class="sharedBacking"><!-- Dressing -->
+        <div id="sidebarA">
+          <div id="menu">
+            <ul>
+              {menu:h}
+            </ul>
+          </div>
+          <div id="roundedEnd"></div>
+        </div><!--[if !IE]> Close Sidebar A <![endif]-->
+        <div id="topInnerCorners" class="innerCorners"></div> <!-- Dressing -->
+        {if:hasErrors}
+        <div id="page_errors">
+            <ul>
+            {foreach:errors,error}
+                <li>{error:h}</li>
+            {end:}
+            </ul>
+        </div>
+        {end:}
+        {if:hasMessages}
+            <div id="page_messages">
+                <ul>
+                {foreach:messages,message}
+                    <li>{message:h}</li>
+                {end:}
+                </ul>
+            </div>
+        {end:}

@@ -1,0 +1,32 @@
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>
+<ul>
+Total Ads: {pg.total_results}
+{foreach:search_results,result}
+    <li><a href="{getViewUrl()}?id={result.getId()}">{result.getName()}</a></li>
+{end:}
+</ul>
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>

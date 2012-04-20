@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<config>
+ <!-- Uncomment this if you have PEAR Log installed
+ <log>
+  <type>file</type>
+  <name>/home/bill/Development/prople.log</name>
+  <ident>propel-bookstore</ident>
+  <level>7</level>
+ </log>-->
+ <propel>
+  <datasources default="cbf">
+   <datasource id="cbf">
+    <adapter>mysql</adapter>
+    <connection>
+     <dsn>mysql:host=localhost;dbname=cbf</dsn>
+     <user>cbfUser</user>
+     <password>Fl0wm4st3r</password>
+    </connection>
+   </datasource>
+  </datasources>
+ </propel>
+</config>

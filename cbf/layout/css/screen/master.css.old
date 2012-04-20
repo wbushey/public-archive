@@ -1,0 +1,452 @@
+@CHARSET "UTF-8";
+
+/*----------------------------------------------------------
+ *	   		Contents
+ * General Styling
+ * Inner Corner Styling
+ * Masterhead
+ * Lower Content/Footer
+ * Left Sidebar
+ * Menu
+ * Fight Results
+ * Right Sidebar
+ * Page Specific
+ *	Fight Styling
+ * 	Comment Styling
+ *	Login/Registration/Contact Styling 
+ * Utilties
+ *	Clear Classes
+ *	Faux Columns
+ *	Image Wrappers
+ *----------------------------------------------------------*/
+
+/*General Styling*/
+body{
+	margin: 0px;
+	padding: 0px;
+    background-color: #f2f2f2;
+	font-size: 62.5%;
+}
+
+h1{
+    font-size: 1.4em;
+    text-align: center;
+	margin: 0px;
+}
+
+a:link{
+	color: inherit;
+}
+
+#span{
+	margin-left: auto;
+	margin-right: auto;
+    padding-left: 4px;
+    padding-right: 4px;
+	
+}
+
+.mainContent{
+    float: right;
+    width: 685px;
+	min-height: 580px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	background-color: #f2f2f2;
+}
+
+.mainContent p{
+        margin-top: 45px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 1.5em;
+        line-height: 1.6em;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+}
+
+/* Inner Corner Styling */
+.innerCorners{
+	float:right;
+    width: 675px;
+    height: 40px;
+    margin-right: 10px;
+	background-color: #f2f2f2;	
+}
+
+#topInnerCorners{
+    background-image: url('../../img/topInnerCorners.gif'); 
+        
+}
+
+#bottomInnerCorners{
+    background-image: url('../../img/bottomInnerCorners.gif');
+}
+
+/*Masterhead*/
+#masterhead{
+    background-color: #4e4b7d;
+    margin-right: 154px;
+    width: 825px;
+    height: 90px;
+	position: relative;
+}
+
+#masterhead h1{
+    position: absolute;
+}
+
+#masterhead a:link, #masterhead a:visited, #masterhead a:hover, ,#masterhead a:active{
+	text-decoration: none;
+}
+
+#masterhead img{
+    border: 0
+}
+
+#bannerAd{
+    float: right;
+	width: 468px;
+	height: 60px;
+    margin: 15px;
+}
+
+/*Lower Content/Footer*/
+
+.lowerContent, #footer{
+    margin: 0px;
+	background-color: #cc4200;
+	text-align: center;	
+}
+
+.lowerContent{
+	float: right;
+	width: 675px;
+	margin-left: 0px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+
+.lowerContent p, #footer p{
+	margin: 0px;
+	padding: 0px;
+}
+
+#footer{
+	padding-top: 10px;
+	width: 825px;
+	height: 40px;
+}
+
+#footerTop{
+	background-image: url('../../img/footerTop.gif');
+	margin: 0px;
+	width: 825px;
+	height: 20px;
+	margin-right: 150px;
+	margin-top: 20px;
+}
+
+#footerText{
+	float: left;
+	margin-top: 5px;
+}
+
+#eXTReMe{
+	float: left; 
+	margin-left: 50px;
+}
+
+#footer p{
+	font-family: Georgia, serif;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+#footerBottom{
+	background-image: url('../../img/footerBottom.gif');
+	margin: 0px;
+	width: 825px;
+	height: 20px;
+    margin-right: 150px;
+}
+
+/*Left Sidebar*/
+#sidebarA{
+        float: left;
+        padding: 0px;
+        width: 150px;
+}
+
+#overlap{
+	background-image: url('../../img/overlap.gif');
+        width: 150px;
+        height: 40px;
+}
+
+#roundedEnd{
+	background-image: url('../../img/roundedEnd.gif');
+	width: 150px;
+	height: 20px;
+}
+
+/* Menu */
+#menu{
+        background-color: #4e4b7d;
+        width: 150px;
+	padding-top: 100px;
+}
+
+#menu ul{
+        list-style-type:none;
+        margin: 0px;
+        padding: 0px;
+        border-top: 1px solid #BEBCD7;
+}
+
+#menu li{
+        border-bottom: 1px solid #BEBCD7;
+        text-align: center;
+        font-size: 1.8em;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+}
+
+#menu a:link, #menu a:visited, #menu a:hover, #menu a:active{
+        display: block;
+        text-decoration: none;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: #DCDBEA;
+}
+
+#menu a:hover{
+        text-decoration: underline;
+}
+
+/* Fight Results */
+#aftermath{
+        padding-top: 1px;
+        padding-bottom: 1px;
+        background-color: #cc4200;
+        
+}
+
+.result{
+        width: 120px;
+        margin-left: 15px;
+        margin-right: 15px;
+        border-bottom: 1px solid;
+}
+
+.result p{
+    text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+    font-size: 1.4em; 
+    font-weight: bold;
+    line-height: 1.1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding-bottom: 1px;
+}
+
+/*Right Sidebar*/
+#sidebarB{
+        float: right;
+        margin-top: 90px;
+        background-image: url('../../img/skyAdBack.gif');
+        width: 150px;
+        height: 660px;
+}
+
+/*---------------------------------------------------------- 
+ * Page Specific 
+ *----------------------------------------------------------*/
+
+/* Fight Styling */
+
+#explaination{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+
+.celebFight{
+        display: table-cell;
+        text-align: center;
+        width: 300px;
+}
+
+.celebFight p{
+	font-size: 1.8em;
+}
+
+#celeb1{
+        float: left;
+}
+
+#vs{      
+        font-size: 2.4em;
+        font-weight: bold;
+        width: 35px;
+}
+
+#celeb2{
+        float: right;
+}
+
+/* Comment Styling */
+
+.comment{
+	width: 655px;
+	margin: 10px;
+	border: 1px solid #662000;
+}
+
+.commentTop{
+	height: 1.6em;
+	border-bottom: 1px solid #662000;
+	background-color: #CC4100;
+}
+
+.commenterName{
+	float: left;
+}
+
+.commentTime{
+	float: right;
+}
+
+.commentTop p{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: #181818;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.commentBody{
+	width: 645px;
+	margin: 0px;
+	padding: 5px;
+	text-align: left;
+	/*background-color: #cc7952;*/
+	background-color: #d98157;
+}
+
+.commentBody p{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+	font-size: 1.6em;
+}
+
+/* Comment Submission Styling */
+
+#commentSubmission textarea{
+	margin: 10px;
+	padding: 2px;
+	width: 655px;
+	height:	6em;
+	border: 2px solid black;
+	color: #000000;
+	font-size: 1.8em;
+	background-color: #ffd0ba;
+}
+
+#commentSubmission input{
+	background-color: #a52100;
+	color: #ffdaca;
+}
+
+/* Login/Registration/Contact Styling */
+#login, #register, #recover, #emailForm{
+    	text-align: center;
+  
+}
+
+.mainContent form{
+    	/*width: 525px;*/
+    	/*margin-right: 80;
+    	/*margin-left: 80;*/
+    	margin-top: 100px;
+}
+
+.mainContent form dl dt, .mainContent form dl dd{
+    	padding: 5px;
+}
+
+.mainContent form dl dt{
+    	float: left;
+    	width: 250px;
+    	font-size: 1.5em;
+}
+
+/* .mainContent form dl dd{
+    width: 300px;	
+}*/
+
+.mainContent form input, .mainContent form textarea{
+   	 border: 1px solid;
+   	 width: 300px;
+}
+
+.mainContent form textarea{
+    height: 100px;	
+}
+
+/*---------------------------------------------------------- 
+ * Utilities 
+ *----------------------------------------------------------*/
+
+.submitButton{
+	border: 2px solid black;
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+/* Clear Classes */
+.clearRight{
+    	clear: right;
+}
+
+.clearLeft{
+	clear: left;
+}
+
+.clearBoth{
+	clear: both;
+}
+
+/* Faux Columns */
+#sharedFauxBackground{	
+        background-image: url('../../img/fauxBack.gif');
+        background-repeat: repeat-y;
+}
+
+.sharedBacking{
+	float: left;
+	width: 835px;
+}
+
+/* Image Wrappers */
+.largeImgWrapper{
+    height: 400px;
+    width: 300px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.tinyImgWrapper{
+    height: 160px;
+    width: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* Error */
+.error{
+    color: red;
+    font-size: 1.6em;
+    margin-top: 30px;
+}
+
+

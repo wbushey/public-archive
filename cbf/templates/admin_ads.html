@@ -1,0 +1,30 @@
+<div class="field"><b>Name:</b> <div id="display_name" class="field_value">{ad.getName()}</div>  <input type="submit" value="Edit" name="edit_name_button" id="edit_name_button" onclick="show_edit_name()"/></div>
+<div class="field"><b>Date Added:</b> {ad.getDateAdded()}</div>
+<div class="field"><b>Position:</b> {ad_position_string} <input type="submit" value="Edit Position" name="edit_position_button" id="edit_position_button" onclick="show_edit_position()"/></div>
+<div class="field"><b>Priority:</b> {ad.getAdPriority()} <input type="submit" value="Edit Priority" name="edit_priority_button" id="edit_priority_button" onclick="show_edit_priority()"/></div>
+<div class="field"><b>Edit Code:</b> <input type="submit" value="Edit Code" name="edit_code_button" id="edit_code_button" onclick="show_edit_code()"/></div>
+<div class="field"><b>Remove Ad:</b> <input type="submit" value="Remove {ad.getName()}" name="remove_ad_button" id="remove_ad_button" onclick="show_remove_ad()"/></div>
+<h2>Ad Sample</h2>
+<div id="ad_display">
+  {ad.getCode():h}
+</div>
+<!-- Begin Popup Divs -->
+<div id="edit_name_div" class="popup_div">
+    <form action="{getAugViewUrl()}" method="post"><input type="text" name="edit_name_field" id="edit_name_field" value="{ad.getName()}"/><input type="submit" value="Update Name" name="edit_name_submit" id="edit_name_submit" /></form>
+</div>
+<div id="edit_position_div" class="popup_div">
+    <form action="{getAugViewUrl()}" method="post"><select name="edit_position_select" id="edit_position_select"></select><input type="submit" value="Update Position" name="edit_position_submit" id="edit_position_submit" /></form>
+</div>
+<div id="edit_priority_div" class="popup_div">
+    <form action="{getAugViewUrl()}" method="post"><input type="text" name="edit_priority_field" id="edit_priority_field" onkeyup="display_percentage()" value="{ad.getAdPriority()}"/><input type="submit" value="Update Priority" name="edit_priority_submit" id="edit_priority_submit" /></form>
+    <div id="display_percentage"></div>
+</div>
+<div id="edit_code_div" class="popup_div">
+    <textarea name="edit_code_text" id="edit_code_text" rows="10" cols="80"></textarea>
+    <span><input type="submit" name="close_code_button" id="close_code_button" value="Close" onclick="close_edit_code()"/><input type="submit" name="edit_code_submit" id="edit_code_submit" value="Update Code" onclick="sendPost('{getAugViewUrl()}', new Array('edit_code_submit', 'edit_code_text'))"/></span>
+</div>
+<div id="remove_ad_div" class="popup_div">
+    <p>Are you sure you want to remove {ad.getName()}?</p>
+    <p>Removing {ad.getName()} will also remove any images associated with it.</p>
+    <span><input type="submit" name="yes_remove_ad_button" id="yes_remove_ad_button" value="Yes" onclick="sendPost('{getAugViewUrl()}', new Array('yes_remove_ad_button'))"/><input type="submit" name="no_remove_ad_button" id="no_remove_ad_button" value="No" onclick="close_remove_ad()"/></span>
+</div>

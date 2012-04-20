@@ -1,0 +1,66 @@
+<div class="field"><h1><a href="{fighter_one_url}">{fighter_one.getName()}</a> vs <a href="{fighter_two_url}">{fighter_two.getName()}</a></h1></div>
+<div class="field"><b>Url: {fight_url:h}</b></div>
+<div class="field"><span class="fight_count"><b>Times Fought:</b> {fight.getTotalFights()}</span><span class="fight_count"><b>{fighter_one.getName()} Victories:</b> {fight.getOnewins()}</span><span class="fight_count"><b>{fighter_two.getName()} Victories:</b> {fight.getTwowins()}</span></div>
+<div class="field">
+    {if:fight.getActive()}
+    <b>Fight Currently Active</b><input type="submit" value="Deactivate Fight" name="deactivate_fight_button" id="deactivate_fight_button" onclick="sendPost('{getAugViewUrl()}', new Array('deactivate_fight_button'))"/>
+    {else:}
+    <b>Fight Currently Not Active</b><input type="submit" value="Activate Fight" name="activate_fight_button" id="activate_fight_button" onclick="sendPost('{getAugViewUrl()}', new Array('activate_fight_button'))"/>
+    {end:}    
+<input type="submit" value="Remove This Fight" name="remove_fight_button" id="remove_fight_button" onclick="show_remove_fight()"/></div>
+<div class="bordered" id="admin_fight_smack">
+    <h2>Smack</h2>
+    <div class="pagination">
+        <div class="left">
+            {pg.prv_page:h}
+        </div>
+        <div class="right">
+            {pg.next_page:h}
+        </div>
+        <div class="center">
+            {foreach:pg.pg_listings,listing}
+                {listing:h}
+            {end:}
+        </div>
+    </div>
+    {foreach:all_smack,smack}
+    <div id="smack_{smack.smack_id}" class="smack">
+        <span class="smack_left_wrapper">{smack.username:h}</span>           
+        <span class="smack_right_wrapper"><input type="submit" value="Edit Post"/ onclick="show_edit_post('{smack.smack_id}')"></span>
+        <span class="smack_left_wrapper">Date: {smack.date}</span>
+        <span class="smack_right_wrapper"><input type="submit" value="Delete Post" onclick="show_remove_post('{smack.smack_id}')"/></span>
+        <div id="smack_body_{smack.smack_id}" class="smack_body bordered">
+            {smack.body:h}
+        </div>
+        <div id="smack_body_for_input_{smack.smack_id}" style="display:none">{smack.body_for_input:h}</div>
+    </div>
+    {end:}
+    <div class="pagination">
+        <div class="left">
+            {pg.prv_page:h}
+        </div>
+        <div class="right">
+            {pg.next_page:h}
+        </div>
+        <div class="center">
+            {foreach:pg.pg_listings,listing}
+                {listing:h}
+            {end:}
+        </div>
+    </div>
+</div>
+
+<!-- Begin Popup Divs -->
+<div id="remove_fight_div" class="popup_div">
+    <p>Are you sure you want to remove the fight between {fighter_one.getName()} and {fighter_two.getName()}?</p>
+    <span><input type="submit" value="Yes" name="yes_remove_fight_button" id="yes_remove_fight_button" onclick="sendPost('{getAugViewUrl()}', new Array('yes_remove_fight_button'))"/><input type="submit" value="No" name="no_remove_fight_button" id="no_remove_fight_button" onclick="close_remove_fight()"/></span>
+</div>
+<div id="remove_post_div" class="popup_div">
+    <p>Are you sure you want to remove this post?</p>
+    <span><input type="hidden" name="post_to_remove" id="post_to_remove"/><input type="submit" name="yes_remove_post_button" id="yes_remove_post_button" value="Yes" onclick="sendPost('{getAugViewUrl()}', new Array('yes_remove_post_button', 'post_to_remove'))"/><input type="submit" name="no_remove_post_button" id="no_remove_post_button" value="No" onclick="close_remove_post()"/></span>
+</div>
+<div id="edit_post_div" class="popup_div">
+    <textarea name="edit_post_text" id="edit_post_text" name="edit_post_text"></textarea>
+    <input type="hidden" name="post_to_edit" id="post_to_edit" name="post_to_edit"/>
+    <div><input type="submit" value="Save Post" name="save_post_button" id="save_post_button" onclick="sendPost('{getAugViewUrl()}', new Array('save_post_button', 'post_to_edit', 'edit_post_text'))"><input type="submit" value="Cancel" name="cancel_post_button" id="cancel_post_button" onclick="close_edit_post()"/></div>
+</div>

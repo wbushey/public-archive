@@ -1,0 +1,42 @@
+        <div id="sharedFauxBackground" class="sharedBacking"><!-- Dressing -->
+        <div id="sidebarA">
+          <div id="menu">
+            <ul>
+              {menu:h}
+            </ul>
+          </div>
+          <div id="overlap"></div>
+          <div id="aftermath">
+            <div id="winner" class="result">
+              <p>The Winner</p>
+              <div class="tinyImgWrapper"><img src="{getPicsUrl()}{winner.getThumbnail()}"/></div>
+              <p>{winner_percentage}% of people agree with you</p>
+            </div>
+            <div id="loser" class="result">
+              <p>The Loser</p>
+              <div class="tinyImgWrapper"><img src="{getPicsUrl()}{loser.getThumbnail()}"/></div>
+              <p>{loser_percentage}% of people think you are totally wrong</p>
+            </div>
+          </div>
+        </div><!--[if !IE]> Close Sidebar A <![endif]-->
+        <div id="topInnerCorners" class="innerCorners"></div> <!-- Dressing -->
+        <div id="full_feedback_container">
+        {if:hasErrors}
+        <div id="page_errors">
+            <ul>
+            {foreach:errors,error}
+                <li>{error:h}</li>
+            {end:}
+            </ul>
+        </div>
+        {end:}
+        {if:hasMessages}
+            <div id="page_messages">
+                <ul>
+                {foreach:messages,message}
+                    <li>{message:h}</li>
+                {end:}
+                </ul>
+            </div>
+        {end:}
+        </div>

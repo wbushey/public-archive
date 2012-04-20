@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- 
+Changes from original
+
+userProfile now has an autoincrement id column
+userProfile does not have a foreign key
+userProfile now has username varchar(100) unique
+userProfile now has password char(32) field
+userProfile now has ip varchar(39) field
+userProfile now has userType tinyint default 0 not null field
+Note: Set David and I to be admins
+
+credentials does not have an autoincrement id column
+credentials now has a foreign key on id
+credentials table has been dropped 
+Note: Use the following command to copy information from credentails into userProfile:
+	update userProfile,credentials set userProfile.username=credentials.username, userProfile.password=credentials.password, userProfile.ip=credentials.ip where userProfile.id=credentials.id;
+
+
+awaitingConfirmation now uses timestamp for ttd
+
+bannedEmails now uses timestamp for ttd
+
+bannedIPs now uses timestamp for ttd
+
+bannedUsernames now uses timestamp for ttd
+
+fights does not have the oneMessage field
+fights does not have the twoMessage field
+fights now has the active field, which is a tinyint
+
+posts now uses timestamp for postTime
+posts now has a foreign key on posterID to userProfile
+
+ad table has been added
+ad_selection_list table has been added
+-->
+
+<database name="cbf" defaultIdMethod="native">
+
+<!-- ########## User account tables ########## -->
+    <table name="userProfile" description="User account information">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for the user account"/>
+	<column name="username" type="varchar" size="100" required="true" description="Username for the account"/>
+	<column name="password" type="char" size="32" required="true" description="Encrypted password for the account"/>
+	<column name="userType" type="tinyint" required="true" description="Indicates why type of user a profile belongs to"/>
+        <column name="emailAddress" type="varchar" size="100" required="true" description="Email address for the account"/>
+	<column name="ip" type="varchar" size="39" required="true" description="IP address that the user last logged in with"/>
+        <validator column="emailAddress">
+            <rule name="match" value="/^([a-zA-Z0-9])+([\.a-zA-Z0-9_-])*@([a-zA-Z0-9])+(\.[a-zA-Z0-9_-]+)+$/" message="Invalid email address" />
+        </validator>
+	<validator column="username">
+            <rule name="unique" message="Username already exists"/>
+        </validator>
+    </table>
+
+<!-- ########## Awaiting confirmation tables ########## -->
+    <table name="awaitingConfirmation" description="New users who have not yet confirmed their accounts">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for confirmation"/>
+        <column name="confirmNum" type="char" size="32" required="true" description="The confirmation number for the account"/>
+        <column name="username" type="varchar" size="100" required="true" description="The username of the awaiting account"/>
+        <column name="password" type="char" size="32" required="true" description="Encrypted password for the awaiting account"/>
+        <column name="ttd" type="timestamp" required="true" description="The time at which this confirmation expires"/>
+    </table>
+    
+    <table name="awaitingProfiles" description="Profiles associated with new users who have not yet confirmed their accounts">
+        <column name="id" type="integer" primaryKey="true" required="true" description="ID for confirmation"/>
+        <column name="emailAddress" type="varchar" size="100" required="true" description="Email address of the user"/>
+        <foreign-key foreignTable="awaitingConfirmation" onDelete="cascade">
+            <reference local="id" foreign="id"/>
+        </foreign-key>
+        <validator column="emailAddress">
+            <rule name="match" value="/^([a-zA-Z0-9])+([\.a-zA-Z0-9_-])*@([a-zA-Z0-9])+(\.[a-zA-Z0-9_-]+)+$/" message="Invalid email address" />
+        </validator>
+    </table>
+    
+<!-- ########## Banned tables ########## -->
+    <table name="bannedEmails" description="Email addresses that have been banned from using the site">
+        <column name="emailAddress" type="varchar" size="100" primaryKey="true" required="true" description="Email address that has been banned"/>
+        <column name="ttd" type="timestamp" required="true" description="Time at which this ban expires"/>
+        <validator column="emailAddress">
+            <rule name="match" value="/^([a-zA-Z0-9])+([\.a-zA-Z0-9_-])*@([a-zA-Z0-9])+(\.[a-zA-Z0-9_-]+)+$/" message="Invalid email address" />
+        </validator>
+    </table>
+    
+    <table name="bannedIPs" description="IP addresses that have been banned from using the site">
+        <column name="ip" type="integer" primaryKey="true" required="true" description="IP address that has been banned"/>
+        <column name="shift" type="tinyint" primaryKey="true" required="true" description="Number of bits that are shifted during search"/>
+        <column name="ttd" type="timestamp" required="true" description="Time at which this ban expires"/>
+    </table>
+    
+    <table name="bannedUsernames" description="Usernames that have banned from using the site">
+        <column name="username" type="varchar" size="100" primaryKey="true" required="true" description="Username that has been banned"/>
+        <column name="ttd" type="timestamp" required="true" description="Time at which this ban expires"/>
+    </table>
+
+<!-- ########## Content Tables ########## -->
+    <table name="names" description="Names of celebrities">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for a celebrity"/>
+        <column name="name" type="varchar" size="100" required="true" description="Name of a celebrity"/>
+        <column name="reference" type="longvarchar" required="true" description="The reference link for a celebrity"/>
+        <validator column="name">
+            <rule name="unique" message="Celebrity already exists"/>
+        </validator>
+    </table>
+    
+    <table name="pics" description="Pictures of celebrities">
+        <column name="id" type="integer" primaryKey="true" required="true" description="ID for a celebrity"/>
+        <column name="pic" type="varchar" size="100" primaryKey="true" required="true" description="Filename of pictures of a celebrity"/>
+        <foreign-key foreignTable="names" onDelete="cascade">
+            <reference local="id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="fights" description="Matches between celebrities">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for a fight"/>
+        <column name="oneID" type="integer" required="true" description="ID for the first celebrity"/>
+        <column name="twoID" type="integer" required="true" description="ID for the second celebrity"/>
+        <column name="oneWins" type="integer" required="true" description="Wins for the first celebrity"/>
+        <column name="twoWins" type="integer" required="true" description="Wins for the second celebrity"/>
+        <column name="active" type="tinyint" default="1" description="Indicates if the fight is currently active"/>
+        <foreign-key foreignTable="names" onDelete="cascade">
+            <reference local="oneID" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="names" onDelete="cascade">
+            <reference local="twoID" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="posts" description="Posts made about celebrity fights">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for a post"/>
+        <column name="fightID" type="integer" required="true" description="ID of the owning fight"/>
+        <column name="posterID" type="integer" required="true" description="ID of the owning poster"/>
+        <column name="postDate" type="timestamp" required="true" description="Date and time the post was made"/>
+        <column name="postText" type="longvarchar" required="true" description="Body of the post"/>
+        <foreign-key foreignTable="fights" onDelete="cascade">
+            <reference local="fightID" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="userProfile" onDelete="cascade">
+            <reference local="posterID" foreign="id"/>
+        </foreign-key>
+    </table>
+
+<!-- ########## Image tables ########## -->
+    <table name="image" description="Metadata for stored images">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for the image"/>
+        <column name="datatype" type="varchar" size="100" required="true" defaultValue="application/octet-stream" description="Image type"/>
+        <column name="name" type="varchar" size="255" required="true" description="Filename of the image"/>
+        <column name="size" type="bigint" size="20" required="true" description="Size of the image"/>
+        <column name="date_added" type="timestamp" required="true" description="Date the image was added"/>
+    </table>
+    
+    <table name="image_data" description="The binary data of stored images">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for the row"/>
+        <column name="image_id" type="integer" required="true" description="ID of the image"/>
+        <column name="data" type="blob" required="true" description="Data for this image node"/>
+        <foreign-key foreignTable="image" onDelete="cascade">
+            <reference local="image_id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+<!-- ########## Advertising tables ########## -->
+    <table name="ad" description="Ad codes">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID for the ad"/>
+        <column name="name" type="varchar" size="100" description="Assigned name to the ad."/>
+        <column name="position" type="integer" required="true" description="Indicates which ad position this ad can display in."/>
+        <column name="date_added" type="timestamp" required="true" description="Date when the ad was added."/>
+        <column name="image_id" type="integer" required="false" description="If the ad uses an image, this is the images's id number."/>
+        <column name="code" type="longvarchar" required="true" description="Display code for the ad"/>
+        <foreign-key foreignTable="image" onDelete="set null">
+            <reference local="image_id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="ad_selection_list" description="List used when randomly selecting an ad">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="Primary Key"/>
+        <column name="ad_id" type="integer" required="true" description="The ad that an element represents"/>
+        <foreign-key foreignTable="ad" onDelete="cascade">
+            <reference local="ad_id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+<!-- ########## Tournament tables ########## -->
+    <table name="tourney_status" description="General status of the tournament.">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID Number for the tournament."/>
+        <column name="active" type="boolean" default="false" description="Indicates if the tourney is active."/>
+        <column name="start_time" type="timestamp" required="true" description="Records when the tournament started."/>
+        <column name="end_time" type="timestamp" required="false" description="Records when the tournament ended."/>
+        <column name="round_number" type="integer" required="false" description="Indicates which round of the tournament is occuring"/>
+        <column name="root" type="integer" description="ID of the root node of the fight bracket."/>
+    </table>
+    
+    <table name="tourney_round_status" description="Status of a round of the tournament.">
+        <column name="tourney_id" type="integer" primaryKey="true" required="true" description="ID of the parent tournament."/>
+        <column name="round_number" type="integer" primaryKey="true" required="true" description="The Round Number."/>
+        <column name="round_start_time" type="timestamp" required="false" description="Records when the current round started."/>
+        <column name="round_end_time" type="timestamp" required="false" description="Indicates when the current round should end."/>
+        <foreign-key foreignTable="tourney_status" onDelete="cascade">
+            <reference local="tourney_id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="tourney_fighters" description="List of fighters participating in the tournament.">
+        <column name="tourney_id" type="integer" primaryKey="true" required="true" description="ID of the tournament."/>
+        <column name="fighter_id" type="integer" primaryKey="true" required="true" description="ID of a participating fighter."/>
+        <foreign-key foreignTable="tourney_status" onDelete="cascade">
+            <reference local="tourney_id" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="names" onDelete="restrict">
+            <reference local="fighter_id" foreign="id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="tourney_fights" description="Listing and recording of tournament fights.">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID of the fight"/>
+        <column name="tourney_id" type="integer" required="true" description="Tournament that the fight is apart of."/>
+        <column name="round_number" type="integer" required="true" description="Round number that the fight is in."/>
+        <column name="general_fight_id" type="integer" required="true" description="ID of the non-tournament fight that is related."/>
+        <column name="oneID" type="integer" required="true" description="ID of fighter one."/>
+        <column name="twoID" type="integer" required="true" description="ID of fighter two."/>
+        <column name="oneWins" type="integer" required="true" defaultValue="0" description="Wins for fighter one."/>
+        <column name="twoWins" type="integer" required="true" defaultValue="0" description="Wins for fighter two."/>
+        <column name="child_right" type="integer" required="false" description="ID of the right child."/>
+        <column name="child_left" type="integer" required="false" description="ID of the left child."/>
+        <column name="parent" type="integer" required="false" description="ID of the parent."/>
+        <foreign-key foreignTable="tourney_round_status" onDelete="cascade">
+            <reference local="tourney_id" foreign="tourney_id"/>
+        </foreign-key>
+        <foreign-key foreignTable="tourney_round_status" onDelete="cascade">
+            <reference local="round_number" foreign="round_number"/>
+        </foreign-key>
+        <foreign-key foreignTable="fights" onDelete="set null">
+            <reference local="general_fight_id" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="tourney_fighters" onDelete="restrict">
+            <reference local="oneID" foreign="fighter_id"/>
+        </foreign-key>
+        <foreign-key foreignTable="tourney_fighters" onDelete="restrict">
+            <reference local="twoID" foreign="fighter_id"/>
+        </foreign-key>
+    </table>
+    
+    <table name="tourney_user_action" description="Recording of users actions within a tournament.">
+        <column name="id" type="integer" primaryKey="true" autoIncrement="true" required="true" description="ID key for the table"/>
+        <column name="user_id" type="integer" required="true" description="ID of the user."/>
+        <column name="fight_id" type="integer" required="true" description="ID of the fight that occurred."/>
+        <column name="result" type="integer" required="true" description="ID of the fighter the user choose."/>
+        <column name="time" type="timestamp" required="true" description="Time that the user voted on the fight."/>
+        <foreign-key foreignTable="userProfile" onDelete="cascade">
+            <reference local="user_id" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="tourney_fights" onDelete="cascade">
+            <reference local="fight_id" foreign="id"/>
+        </foreign-key>
+        <foreign-key foreignTable="tourney_fighters" onDelete="set null">
+            <reference local="result" foreign="fighter_id"/>
+        </foreign-key>
+    </table>
+</database>

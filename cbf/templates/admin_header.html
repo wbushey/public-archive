@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel='stylesheet' media="screen" type='text/css' href='{getLayoutUrl()}/css/screen/admin_master.css' />
+    {foreach:javascripts,js}
+    <script type="text/javascript" src="{getJsUrl()}{js}"></script>
+    {end:}
+    <title>{page_title}</title>
+</head>
+<body>
+    <div id="masterhead">
+        <div id="logo">
+            <p>CBF</p>
+            <p>Admin</p>
+        </div>
+    </div>
+    <div id="sidebar">
+    	{if:isAuthorized()}
+        <ul>
+            <li><a href="{get_controller_url()}/admin/celebrities">Celebrities</a></li>
+            <li><a href="{get_controller_url()}/admin/celebrities/addCelebrity">Add A Celebrity</a></li>
+            <li><a href="{get_controller_url()}/admin/fights">Fights</a></li>
+            <li><a href="{get_controller_url()}/admin/fights/addFight">Add A Fight</a></li>
+            <li><a href="{get_controller_url()}/admin/users">Users</a></li>
+            <li><a href="{get_controller_url()}/admin/bans/ipBans">IP Bans</a></li>
+            <li><a href="{get_controller_url()}/admin/ads">Ads</a></li>
+            <li><a href="{get_controller_url()}/admin/ads/addAd">Add An Ad</a></li>
+        </ul>
+        {end:}
+    </div>
+    <div id="content">
+    {if:hasErrors}
+        <div id="page_errors">
+            <ul>
+            {foreach:errors,error}
+                <li>{error:h}</li>
+            {end:}
+            </ul>
+        </div>
+    {end:}
+    {if:hasMessages}
+        <div id="page_messages">
+            <ul>
+            {foreach:messages,message}
+                <li>{message:h}</li>
+            {end:}
+            </ul>
+        </div>
+    {end:}

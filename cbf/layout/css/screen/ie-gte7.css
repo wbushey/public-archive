@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+body{
+    text-align: center;
+}
+
+#span{
+    width: 1000px;
+    text-align: left;   
+}
+
+.mainContent{
+    height:auto !important;
+    height:580px;
+}
+
+#footerBottom{
+    margin-right: 170px;
+}
+
+#footerText{
+    margin-left: 250px;
+    margin-right: 50px;
+}
+
+#eXTReMe{
+    float: left; 
+    margin-left: 00px;
+    margin-right: 00px;
+}
+
+#skyAd{
+        margin: 20px 10px 10px 10px;
+}
+
+.celebFight{
+        margin: 0px;
+}
+
+#celeb1{
+        margin-left: 5px;
+}
+
+#vs{      
+        margin-top: 0px;
+       margin-left: 290px;
+       margin-right: 290px;
+}
+
+#celeb2{
+        margin-left: 0px;
+    
+}

@@ -1,0 +1,1 @@
+a:9:{i:0;s:19:"Add An Advertisment";i:1;s:5:"Name:";i:2;s:9:"Position:";i:3;s:9:"Priority:";i:4;s:14:"Hosting Image?";i:5;s:15:"File to upload:";i:6;s:143:"If uploading an image, use the token __CBF_AD__ as the image's address. The script will replace the token with the actual address of the image.";i:7;s:8:"Ad Code:";i:8;s:16:"Add Advertisment";}

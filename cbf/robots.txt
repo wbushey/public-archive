@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /adminPanel/
+Disallow: /includes/
+Disallow: /tools/
+Disallow: /layout/

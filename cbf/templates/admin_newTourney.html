@@ -1,0 +1,19 @@
+<input type="submit" value="Select All" id="selectAll" onclick="selectAll(document.newTourney.celebs)"/> <input type="submit" value="Un-Select All" id="unselectall" onclick="unSelectAll(document.newTourney.celebs)"/>
+<form name="newTourney" action="{getViewUrl()}" method="post" onsubmit="return validate_form()">
+<table>
+{foreach:celebs,x,celeb}
+  <tr>
+    <td>
+      <input type="checkbox" name="celebs[]" id="celeb{x}" value="{celeb.getId()}" onclick="printCount()"/><a href="{getCelebLink(celeb)}" target="_blank">{celeb.getName()}</a>
+    </td>
+  </tr>
+{end:}
+</table>
+<input type="submit" value="Build Tree" name="add_tourney"/>
+</form>
+<div id="checkCountHolder">
+Checked Celebrities:
+    <div id="checkCount">
+    
+    </div>
+</div>

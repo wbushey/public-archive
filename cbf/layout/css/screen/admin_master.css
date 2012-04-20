@@ -1,0 +1,276 @@
+@CHARSET "UTF-8";
+
+/*----------------------------------------------------------
+ *          Contents
+ * General Styling
+ * Masterhead
+ * Sidebar
+ * Utilities
+ *  Popup Div Styling
+ *  Page Errors Styling
+ *  Pagination
+ *  Search Box
+ *  Misc
+ * Page Specific
+ *  Celebrities
+ *  Fights
+ *  Add Fight
+ *  Users
+ *  New Tourney
+ *----------------------------------------------------------*/
+ 
+ /*----------------------------------------------------------
+  * General Styling 
+  *----------------------------------------------------------*/
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f2f2f2;
+}
+
+#content{
+    padding: 90px 40px 0px 170px;
+}
+
+input, select{
+    border: 1px solid black;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 0px 10px;
+}
+
+/* ----------------------------------------------------------
+ * Masterhead 
+ *----------------------------------------------------------*/
+
+#masterhead{
+    float: left;
+    width: 100%;
+    height: 70px;
+    background-color: #4e4b7d;
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo{
+    float: left;
+    width: 144px;
+    height: 84px;
+    background-color: #cc4200;
+    margin: 0px;
+    padding: 0px;
+    font-family: Trebuchet, Arial;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#logo p{
+    margin: 6px;
+}
+
+/*----------------------------------------------------------  
+ * Sidebar
+ *----------------------------------------------------------*/
+
+#sidebar{
+    clear: left;
+    float: left;
+    width: 130px;
+    background-color: #4e4b7d;
+    padding: 30px 0px;
+    margin: 14px 0px 0px 0px;
+}
+
+#sidebar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 130px;
+    font: bold 16px Verdana, sans-serif;
+    text-align: center;
+}
+
+#sidebar ul li{
+    padding: 20px;
+}
+
+#sidebar ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/*----------------------------------------------------------  
+ * Utilities 
+ *----------------------------------------------------------*/
+
+/* Popup Div Styling */
+ .popup_div {
+    position: absolute;
+    visibility: hidden;
+    width: 400px;
+    height: 300px;
+    left: 20px;
+    top: 300px;
+    background-color: #4e4b7d;
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Page Errors Styling */
+#page_errors{
+    border: 1px solid #FF0000;
+    color: #FF0000;    
+}
+
+/* Pagination */
+
+.pagination{
+    margin: 10px;
+}
+
+.pagination .left{
+    float: left;
+}
+
+.pagination .center{
+    text-align: center;
+}
+
+.pagination .right{
+    float: right;
+}
+
+/* Search Box */
+#search_options{
+    border: 1px solid #000000;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Misc */
+
+.field{
+    margin: 15px 0px 15px 0px;    
+}
+
+.field_value{
+    border: 0px;
+    background-color: transparent; 
+    text-decoration: none;
+    width: auto;
+    display:inline;
+}
+
+.bordered{
+    border: 1px solid black;
+}
+
+.day_text{
+	width: 40px;
+}
+
+/*---------------------------------------------------------- 
+ * Page Specific 
+ *----------------------------------------------------------*/
+ 
+/*---------- Celebrities ----------*/
+ 
+#celebrity_pictures{
+    width: 400px;
+}
+
+.fight_listing{
+    text-align: center;
+}
+
+#save_celebrity_button{
+    float: right;    
+}
+
+/*---------- Fights ----------*/
+ 
+ .fight_count{
+    margin-right: 30px;
+ }
+ 
+ #admin_fight_smack{
+    text-align: center;
+ }
+ 
+ .smack{
+    margin: 20px;
+    border: 2px solid #000000;
+}
+ 
+ .smack_right_wrapper{
+    float: right;
+    margin: 5px;
+ }
+ 
+ .smack_left_wrapper{
+    clear: right;
+    float: left;
+    margin: 5px;
+ }
+ 
+ .smack_body{
+    clear: right;
+    margin: 4.75em 20px 20px 20px;
+    padding: 10px;
+    text-align: left;
+ }
+ 
+#edit_post_div textarea{
+    margin: 10px;
+    padding: 2px;
+    width: 580px;
+    height: 350px;
+    border: 2px solid black;
+    color: #000000;
+
+    background-color: #ffd0ba;
+}
+
+/*---------- Add Fight ----------*/
+
+#addFightDiv{
+    display: table-cell;
+    text-align: center; 
+    padding-bottom: 20px;   
+}
+
+.celebListDiv{
+    margin: 20px;
+}
+
+#celeb1Div{
+    float: left;
+}
+
+#celeb2Div{
+    float: right;
+}
+
+/*---------- Users ----------*/
+
+ #admin_user_smack{
+    text-align: center;
+    margin-top: 40px;
+ }
+ 
+ /*---------- New Tourney ----------*/
+ #checkCountHolder{
+    border: 1px solid black;
+    padding: 10px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+ }
+ 
+ #checkCount{
+    text-align:center;
+ }

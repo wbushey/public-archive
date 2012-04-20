@@ -1,0 +1,15 @@
+        <div id="register" class="mainContent">
+          <form id="registerForm" action="{getAugViewUrl()}" method="post">
+            <dl>
+              <dt><label for="username">User Name: </label></dt> 
+              <dd><input type="text" name="username" id="username" value="{entered_username}"/></dd>
+              <dt><label for="emailAddress">Email Address: </label></dt>
+              <dd><input type="text" name="emailAddress" id="emailAddress" value="{entered_address}"/></dd>
+              <dt><label for="password">Password: </label></dt> 
+              <dd><input type="password" name="password" id="password"/></dd>
+              <dt><label for="confirmPassword">Confirm Password: </label>
+              <dd><input type="password" name="confirmPassword" id="confirmPassword"/></dd>
+            </dl>
+            <input type="submit" class="submitButton" name="register_submit" id="register_submit" value="Register"/>
+          </form>
+        </div>

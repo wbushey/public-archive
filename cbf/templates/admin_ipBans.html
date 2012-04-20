@@ -1,0 +1,78 @@
+<div id="add_ip_ban">
+    <form action="{getViewUrl()}" method="post">
+        <p>
+            <label for="ip_address">Address/Mask:</label>
+            <input type="text" name="ip_address" id="ip_address"/>
+            <label for="days">Number of Days:</label>
+            <input type="text" name="days" id="days" size="3"/>
+            <input type="submit" name="ban_button" value="Ban IP"/>
+        </p>
+        <p>
+            If 'Number of Days' is left blank or has the value '0' then the ban will be permanent.
+        </p>
+        <p>
+            The following syntaxes are accepted by Address/Mask:
+            <ul>
+                <li>xxx.xxx.xxx.xxx</li>
+                <li>xxx.xxx.xxx.xxx/[&lt;=32]</li>
+                <li>xxx</li>
+                <li>xxx/[&lt;=8]</li>
+                <li>xxx.xxx</li>
+                <li>xxx.xxx/[&lt;=16]</li>
+                <li>xxx.xxx.xxx</li>
+                <li>xxx.xxx.xxx/[&lt;=24]</li>
+            </ul>
+        </p>
+    </form>
+</div>
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>
+Total Bans: {pg.total_results}
+<table width="100%" border="1">
+    <tr>
+        <td>IP Address/Mask</td>
+        <td>Expires On</td>
+        <td>Remove Ban</td>
+    </tr>
+{foreach:results,result}
+    <tr>
+        <td>
+            {result.getIpAndMaskString()}</a>
+        </td>
+        <td>
+            {if:result.is_perm_ban()}
+                Permanent Ban
+            {else:}
+                {result.getTtd()}
+            {end:}
+        </td>
+        <td>
+            <a href="{getViewUrl()}?del={result.getIpAndMaskString()}">Remove</a>
+        </td>
+     </tr>
+{end:}
+</table>
+<div class="pagination">
+    <div class="left">
+        {pg.prv_page:h}
+    </div>
+    <div class="right">
+        {pg.next_page:h}
+    </div>
+    <div class="center">
+        {foreach:pg.pg_listings,listing}
+            {listing:h}
+        {end:}
+    </div>
+</div>

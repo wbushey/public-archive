@@ -1,0 +1,12 @@
+<h1>Add An Advertisment</h1>
+<form action="{getAugViewUrl()}" method="post" enctype="multipart/form-data">
+    <p><label for="name">Name: </label> <input type="text" name="name" id="name"/ value="{ad_name}"></p>
+    <p><label for="position">Position: </label> 
+        <select name="position" id="position" onchange="display_percentage()"></select>
+    </p>
+    <p><label for="priority">Priority: </label> <input type="text" name="priority" id="priority" value="{ad_priority}" onkeyup="display_percentage()"/><span id="display_percentage"></span></p>
+    <p><label for="hosting_check">Hosting Image? </label> <input type="checkbox" name="hosting_check" id="hosting_check"/> <label for="hosting_file">File to upload: </label><input type="file" name="hosting_file" id="hosting_file"/></p>
+    <p>If uploading an image, use the token __CBF_AD__ as the image's address. The script will replace the token with the actual address of the image.</p>
+    <p><label for="code">Ad Code: </label> <textarea rows="10" cols="80" name="code" id="code"></textarea></p>
+    <p><input type="submit" name="add_ad_submit" id="add_ad_submit" value="Add Advertisment"/></p>
+</form>

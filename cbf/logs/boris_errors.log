@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+Error Occured on Mon, July 20th 2009 at 11:34:23pm EDT
+	Error Number:	 2(Warning)
+	Message:	 mysqli_real_escape_string() expects exactly 2 parameters, 1 given
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/classes/models/NamesPeer.php
+	Line:		 131
+
+	Begin Variable Dump
+			Array
+			(
+			    [c] => Array
+			        (
+			            [name] => Andy
+			            [limit] => 30
+			            [do_count] => 1
+			        )
+			
+			    [from] => Array
+			        (
+			        )
+			
+			    [where] => Array
+			        (
+			        )
+			
+			    [query] => select count(distinct names.id) from names 
+			)
+			
+	End Variable Dump
+--------------------------------------------------------------------------------
+################################################################################
+--------------------------------------------------------------------------------
+Error Occured on Mon, July 20th 2009 at 11:41:51pm EDT
+	Error Number:	 2(Warning)
+	Message:	 mysqli_escape_string() expects exactly 2 parameters, 1 given
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/classes/models/NamesPeer.php
+	Line:		 131
+
+	Begin Variable Dump
+			Array
+			(
+			    [c] => Array
+			        (
+			            [name] => Andy
+			            [limit] => 30
+			            [do_count] => 1
+			        )
+			
+			    [from] => Array
+			        (
+			        )
+			
+			    [where] => Array
+			        (
+			        )
+			
+			    [query] => select count(distinct names.id) from names 
+			)
+			
+	End Variable Dump
+--------------------------------------------------------------------------------
+################################################################################

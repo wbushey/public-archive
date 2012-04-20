@@ -1,0 +1,8 @@
+<h1>Add A Celebrity</h1>
+<p>A Name is required, while the Reference URL and Picture are optional. If no Reference URL is provided then one will be generated that refers to Wikipedia.</p>
+<form action="{getAugViewUrl()}" method="post" enctype="multipart/form-data">
+    <p><label for="name">Name: </label> <input type="text" name="name" id="name"/></p>
+    <p><label for="reference_url">Reference URL: </label> <input type="text" name="reference_url" id="reference_url"/></p>
+    <p><label for="picture">Picture: </label> <input type="file" name="picture" id="picture"/></p>
+    <p><input type="submit" name="add_celebrity" id="add_celebrity" value="Add Celebrity"/></p>
+</form>

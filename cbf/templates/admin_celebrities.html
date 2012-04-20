@@ -1,0 +1,45 @@
+<div class="field"><b>Name:</b> <div id="display_name" class="field_value">{celebrity.getName()}</div>  <input type="submit" value="Edit" name="edit_name_button" id="edit_name_button" onclick="show_edit_name()"/></div>
+<div class="field"><b>Reference URL:</b> <a id="display_reference" href="{celebrity.getReference()}" target="_blank">{celebrity.getReference()}</a> <input type="submit" value="Edit" name="edit_reference_button" id="edit_reference_button" onclick="show_edit_reference()"/></div>
+<p><b>Pictures</b>  <input type="submit" value="Add A Picture" name="add_picture_button" id="add_picture_button" onclick="show_add_picture()"/></p>
+<div id="celebrity_pictures" class="bordered">
+    <table>
+        {foreach:pics_rows,pics_row}
+            <tr>
+                {foreach:pics_row,pic}
+                    <td>
+                        <img src="{getPicsUrl()}{pic.getThumbnail()}" onclick="show_full_picture('{getPicsUrl()}{pic.getPic()}', '{pic.getPic()}')"/>
+                    </td>
+                {end:}
+            </tr>
+        {end:}
+    </table>
+</div>
+
+<p><b>Fights</b> <input type="submit" value="Add {celebrity.getName()} to a Fight" name="add_to_fight_button" id="add_to_fight_button"/ onclick="redirect('{getAddFightLink(celebrity)}')"></p>
+<div id="related_fights" class="bordered fight_listing">
+    {foreach:all_fights,fight}
+        <p><a href="{getFightLink(fight)}">{fight.toString()}</a></p>
+    {end:}
+</div>
+
+<p><input type="submit" value="Remove {celebrity.getName()}" name="remove_celebrity_button" id="remove_celebrity_button" onclick="show_remove_celeb()"/></p>
+
+<!-- Begin Popup Divs -->
+<div id="edit_name_div" class="popup_div">
+    <form action="{getAugViewUrl()}" method="post"><input type="text" name="edit_name_field" id="edit_name_field" value="{celebrity.getName()}"/><input type="submit" value="Update Name" name="edit_name_submit" id="edit_name_submit" /></form>
+</div>
+<div id="edit_reference_div" class="popup_div">
+    <form action="{getAugViewUrl()}" method="post"><input type="text" name="edit_reference_field" id="edit_reference_field" value="{celebrity.getReference()}"/><input type="submit" value="Update Reference URL" name="edit_reference_submit" id="edit_reference_submit"/></form>
+</div>
+<div id="add_picture_div" class="popup_div">
+    <input type="file" name="new_picture_file" id="new_picture_file"/><input type="submit" value="Add Picture" name="add_picture_submit" id="add_picture_submit" onclick="sendFile('{getAugViewUrl()}', new Array('add_picture_submit', 'new_picture_file'))"/><input type="submit" value="Cancel" name="cancel_add_picture_button" id="cancel_add_picture_button" onclick="close_add_picture()"/>
+</div>
+<div id="edit_picture_div" class="popup_div">
+    <div><img id="full_picture" src=""/></div>
+    <span><input type="submit" name="close_picture_button" id="close_picture_button" value="Close" onclick="close_full_picture()"/><input type="hidden" name="picture_to_remove" id="picture_to_remove"/><input type="submit" name="remove_picture_button" id="remove_picture_button" value="Remove Picture" onclick="sendPost('{getAugViewUrl()}', new Array('remove_picture_button', 'picture_to_remove'))"/></span>
+</div>
+<div id="remove_celeb_div" class="popup_div">
+    <p>Are you sure you want to remove {celebrity.getName()} from Celebrity Bar Fight?</p>
+    <p>If removed, any pictures, fights and comments related to {celebrity.getName()} will also be removed from the site.</p>
+    <span><input type="submit" name="yes_remove_celeb_button" id="yes_remove_celeb_button" value="Yes" onclick="sendPost('{getAugViewUrl()}', new Array('yes_remove_celeb_button'))"/><input type="submit" name="no_remove_celeb_button" id="no_remove_celeb_button" value="No" onclick="close_remove_celeb()"/></span>
+</div>

@@ -1,0 +1,55 @@
+        <div class="clearRight"></div>
+        <div id="bottomInnerCorners" class="innerCorners"></div><!-- Dressing -->
+        <div id="commentArea" class="lowerContent">
+    <div class="clearRight"></div>
+          <h2>Talk Smack about {winner.getName()} and {loser.getName()}</h2>
+          <div id="comments">
+            <div class="pagination">
+                <div class="left">
+                    {pg.prv_page:h}
+                </div>
+                <div class="right">
+                    {pg.next_page:h}
+                </div>
+                <div class="center">
+                    {foreach:pg.pg_listings,listing}
+                        {listing:h}
+                    {end:}
+                </div>
+            </div>
+            {foreach:comments,comment}
+                <div class="comment">
+                    <div class="commentTop">
+                      <p class="commenterName">Posted By {comment.getPosterUsername()}</p>
+                      <p class="commentTime">Posted on {comment.getPostdate()}</p>
+                    </div>
+                    <div class="commentBody">
+                      {comment.getPosttext():h}
+                    </div>
+                </div>
+            {end:}
+            <div class="pagination">
+                <div class="left">
+                    {pg.prv_page:h}
+                </div>
+                <div class="right">
+                    {pg.next_page:h}
+                </div>
+                <div class="center">
+                    {foreach:pg.pg_listings,listing}
+                        {listing:h}
+                    {end:}
+                </div>
+            </div>
+            {comment_submission:h}
+          </div>
+        </div>
+      </div><!-- Close Faux -->
+      <div class="clearBoth"></div>
+      <div id="footer">
+        {footerText:h}
+      </div>
+      <div id="footerBottom"></div>
+    </div>
+  </body>
+</html>

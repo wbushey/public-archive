@@ -1,0 +1,213 @@
+--------------------------------------------------------------------------------
+Exception Thrown on Mon, July 20th 2009 at 10:43:34pm EDT
+	Code:		 0
+	Message:	 Unable to open PDO connection [wrapped: could not find driver]
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/system/propel/Propel.php
+	Line:		 610
+
+	Begin Trace
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/system/propel/Propel.php
+	Line:		 523
+	Function:	 Propel::initConnection
+	Arguments:
+			Array
+			(
+			    [0] => Array
+			        (
+			            [dsn] => mysql:host=localhost;dbname=billiam
+			            [user] => billiam
+			            [password] => Fl0wm4st3r
+			        )
+			
+			    [1] => billiam
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/system/propel/Propel.php
+	Line:		 538
+	Function:	 Propel::getConnection
+	Arguments:
+			Array
+			(
+			    [0] => billiam
+			    [1] => write
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/classes/models/om/BaseAdSelectionListPeer.php
+	Line:		 190
+	Function:	 Propel::getConnection
+	Arguments:
+			Array
+			(
+			    [0] => billiam
+			    [1] => read
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/classes/models/AdPeer.php
+	Line:		 61
+	Function:	 BaseAdSelectionListPeer::doCount
+	Arguments:
+			Array
+			(
+			    [0] => Criteria Object
+			        (
+			            [ignoreCase:private] => 
+			            [singleRecord:private] => 
+			            [selectModifiers:private] => Array
+			                (
+			                )
+			
+			            [selectColumns:private] => Array
+			                (
+			                )
+			
+			            [orderByColumns:private] => Array
+			                (
+			                )
+			
+			            [groupByColumns:private] => Array
+			                (
+			                )
+			
+			            [having:private] => 
+			            [asColumns:private] => Array
+			                (
+			                )
+			
+			            [joins:private] => Array
+			                (
+			                    [0] => Join Object
+			                        (
+			                            [leftColumn:private] => Array
+			                                (
+			                                    [0] => ad.ID
+			                                )
+			
+			                            [rightColumn:private] => Array
+			                                (
+			                                    [0] => ad_selection_list.AD_ID
+			                                )
+			
+			                            [joinType:private] => 
+			                        )
+			
+			                )
+			
+			            [dbName:private] => billiam
+			            [primaryTableName:private] => 
+			            [originalDbName:private] => 
+			            [limit:private] => 0
+			            [offset:private] => 0
+			            [blobFlag:private] => 
+			            [aliases:private] => Array
+			                (
+			                )
+			
+			            [useTransaction:private] => 
+			            [map:private] => Array
+			                (
+			                    [ad.POSITION] => Criterion Object
+			                        (
+			                            [value:private] => 1
+			                            [comparison:private] => =
+			                            [table:private] => ad
+			                            [realtable:private] => ad
+			                            [column:private] => POSITION
+			                            [ignoreStringCase:private] => 
+			                            [db:private] => DBMySQL Object
+			                                (
+			                                )
+			
+			                            [clauses:private] => Array
+			                                (
+			                                )
+			
+			                            [conjunctions:private] => Array
+			                                (
+			                                )
+			
+			                            [parent:private] => 
+			                        )
+			
+			                )
+			
+			        )
+			
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/site/main/cbf_LimitedHeaderView.php
+	Line:		 27
+	Function:	 AdPeer::get_random_ad
+	Arguments:
+			Array
+			(
+			    [0] => 1
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/site/main/cbf_MainView.php
+	Line:		 40
+	Function:	 cbf_LimitedHeaderView->__construct
+	Arguments:
+			Array
+			(
+			    [0] => Array
+			        (
+			        )
+			
+			    [1] => Array
+			        (
+			        )
+			
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/boris/user/boris_ClassLoader.php
+	Line:		 24
+	Function:	 cbf_MainView->__construct
+	Arguments:
+			Array
+			(
+			    [0] => Array
+			        (
+			        )
+			
+			    [1] => Array
+			        (
+			        )
+			
+			)
+			
+	------------------------------------------------------------------------
+	------------------------------------------------------------------------
+	File:		 /home/bill/Development/files/workspace/Celebrity Bar Fight/site/beta.php
+	Line:		 43
+	Function:	 boris_ClassLoader::loadClass
+	Arguments:
+			Array
+			(
+			    [0] => /cbf/site/beta.php
+			    [1] => Array
+			        (
+			        )
+			
+			    [2] => Array
+			        (
+			        )
+			
+			)
+			
+	------------------------------------------------------------------------
+	End Trace
+--------------------------------------------------------------------------------
+################################################################################

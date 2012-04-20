@@ -1,0 +1,12 @@
+        <div id="login" class="mainContent">
+          <form id="loginForm" action="{getAugViewUrl()}" method="post">
+            <dl>
+              <dt><label for="username">User Name: </label></dt> 
+              <dd><input type="text" name="username" id="username" value="{user.getUsername()}"/></dd>
+              <dt><label for="password">Password: </label></dt> 
+              <dd><input type="password" name="password" id="password"/></dd>
+            </dl>
+            <input type="submit" class="submitButton" name="login_submit" id="login_submit" value="Login"/>
+          </form>
+          <p><a href="{lost_password_url:h}">Forgot your password? Click here to recieve a new password.</a></p>
+        </div>

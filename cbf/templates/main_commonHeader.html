@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta name="description" content="Two drunk celebrities, one back-alley brawl. Who wins? You Decide."/>
+    <!-- Wow I hate Internet Explorer -->
+    <link rel='stylesheet' media="screen" type='text/css' href='{getLayoutUrl()}/css/screen/master.css' />
+    <![if lt IE 7]>
+    <link rel='stylesheet' media="screen" type='text/css' href='{getLayoutUrl()}/css/screen/ie-lt7.css' />
+    <![endif]>
+    <![if gte IE 7]>
+    <link rel='stylesheet' media="screen" type='text/css' href='{getLayoutUrl()}/css/screen/ie-gte7.css' />
+    <![endif]>
+    <![if !IE]>
+    <link rel='stylesheet' media="screen" type='text/css' href='{getLayoutUrl()}/css/screen/standard.css' />
+    <![endif]>
+    {foreach:javascripts,js}
+    <script type="text/javascript" src="{getJsUrl()}{js}"></script>
+    {end:}
+    <title>{page_title}</title>
+  </head>
+  <body>
+    <div id="span">
+      <div id="sidebarB">
+             <div id="skyAd_top"></div>
+             <div id="skyAd_body">
+                {right_1:h}
+             </div>
+             <div id="skyAd_bottom"></div>
+      </div>
+      <div id="masterhead">
+        <h1><a href="{get_controller_url()}"><img id="logo" src="{getLayoutUrl()}/img/cbf_logo.png"/></a></h1>
+        <div id="bannerAd">
+          {top:h}
+        </div>
+      </div>

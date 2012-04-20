@@ -1,0 +1,55 @@
+8
+
+dir
+268
+svn+ssh://www.tonybibbs.com/svn/geeklog2/system/PEAR/Console
+svn+ssh://www.tonybibbs.com/svn/geeklog2
+
+
+
+2007-11-16T21:45:42.701752Z
+1
+tony
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+21a0f715-28d0-4356-bd84-358970780c49
+
+CVS
+dir
+
+Getopt.php
+file
+
+
+
+
+2008-05-27T15:48:08.000000Z
+42fea900cdc6bf3d049f2c05c49b02fb
+2007-11-16T21:45:42.701752Z
+1
+tony
+
+Table.php
+file
+
+
+
+
+2008-05-27T15:48:08.000000Z
+4089e899528cafcb2f8c4602792826c2
+2007-11-16T21:45:42.701752Z
+1
+tony
+
