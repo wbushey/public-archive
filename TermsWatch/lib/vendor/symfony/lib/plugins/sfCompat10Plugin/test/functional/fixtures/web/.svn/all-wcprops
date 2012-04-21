@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/web
+END
+frontend_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/web/frontend_dev.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/web/robots.txt
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/web/index.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/web/.htaccess
+END

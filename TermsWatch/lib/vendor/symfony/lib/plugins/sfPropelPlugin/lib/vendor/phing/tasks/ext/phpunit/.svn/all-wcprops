@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit
+END
+BatchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/BatchTest.php
+END
+PHPUnitTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/PHPUnitTestRunner.php
+END
+PHPUnitUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/PHPUnitUtil.php
+END
+PHPUnitTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/PHPUnitTask.php
+END
+FormatterElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/FormatterElement.php
+END
+PHPUnitReportTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/PHPUnitReportTask.php
+END

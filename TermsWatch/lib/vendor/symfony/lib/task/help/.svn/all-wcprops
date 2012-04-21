@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/help
+END
+sfListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/help/sfListTask.class.php
+END
+sfHelpTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/help/sfHelpTask.class.php
+END

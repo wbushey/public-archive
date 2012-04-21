@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin
+END
+release.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/release.php
+END
+symfony.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/symfony.bat
+END
+SANDBOX_README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/SANDBOX_README
+END
+check_configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/check_configuration.php
+END
+symfony
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/symfony
+END
+create_sandbox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/data/bin/create_sandbox.sh
+END

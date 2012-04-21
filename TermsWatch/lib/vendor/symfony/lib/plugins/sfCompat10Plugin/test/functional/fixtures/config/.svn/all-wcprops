@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/propel.ini
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/databases.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/properties.ini
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/rsync_exclude.txt
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/schema.yml
+END

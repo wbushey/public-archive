@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional
+END
+validationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/validationTest.php
+END
+fillInFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fillInFilterTest.php
+END

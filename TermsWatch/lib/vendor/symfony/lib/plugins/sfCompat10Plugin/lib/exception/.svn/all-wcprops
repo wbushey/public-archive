@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/exception
+END
+sfValidatorException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/exception/sfValidatorException.class.php
+END
+sfActionException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/exception/sfActionException.class.php
+END

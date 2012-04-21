@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/templates
+END
+forwardSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/templates/forwardSuccess.php
+END
+doneSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/templates/doneSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/templates/indexSuccess.php
+END

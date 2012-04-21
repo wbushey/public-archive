@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Analyzer.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Query.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/File.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Exception.php
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Indexer.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Parser.php
+END
+Record.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Record.php
+END
+Listener.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Listener.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/bootstrap
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/bootstrap/functional.php
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/bootstrap/unit.php
+END

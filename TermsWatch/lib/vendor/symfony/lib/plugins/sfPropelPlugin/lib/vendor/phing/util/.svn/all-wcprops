@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util
+END
+LogWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/LogWriter.php
+END
+SourceFileScanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/SourceFileScanner.php
+END
+StringHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/StringHelper.php
+END
+DirectoryScanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/DirectoryScanner.php
+END
+PathTokenizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/PathTokenizer.php
+END
+ExtendedFileStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/ExtendedFileStream.php
+END
+FileUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/util/FileUtils.php
+END

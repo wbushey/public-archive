@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin
+END
+sfPluginBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginBaseTask.class.php
+END
+sfPluginAddChannelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginAddChannelTask.class.php
+END
+sfPluginPublishAssetsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginPublishAssetsTask.class.php
+END
+sfPluginUninstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginUninstallTask.class.php
+END
+sfPluginListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginListTask.class.php
+END
+sfPluginInstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginInstallTask.class.php
+END
+sfPluginUpgradeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/plugin/sfPluginUpgradeTask.class.php
+END

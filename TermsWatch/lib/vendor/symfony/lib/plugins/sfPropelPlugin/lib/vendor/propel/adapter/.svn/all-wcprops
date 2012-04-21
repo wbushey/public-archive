@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter
+END
+DBNone.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBNone.php
+END
+DBPostgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBPostgres.php
+END
+DBMSSQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBMSSQL.php
+END
+DBSQLite.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBSQLite.php
+END
+DBOracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBOracle.php
+END
+DBAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBAdapter.php
+END
+DBMySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/DBMySQL.php
+END

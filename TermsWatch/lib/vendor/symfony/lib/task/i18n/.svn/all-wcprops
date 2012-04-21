@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/i18n
+END
+sfI18nFindTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/i18n/sfI18nFindTask.class.php
+END
+sfI18nExtractTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/i18n/sfI18nExtractTask.class.php
+END

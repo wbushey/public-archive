@@ -1,0 +1,100 @@
+10
+
+dir
+6
+https://adam.law.harvard.edu/svn/termswatch/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib
+https://adam.law.harvard.edu/svn/termswatch
+
+
+
+2009-06-15T14:20:44.481880Z
+6
+wbushey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7dbb92c7-a191-4935-8532-ee60cf0cb678
+
+
+
+
+
+
+0
+empty
+
+bridge
+dir
+
+cache
+dir
+
+config
+dir
+
+exception
+dir
+
+filter
+dir
+
+request
+dir
+
+sfMail.class.php
+file
+
+
+
+
+2007-09-15T09:25:00.000000Z
+851bdced7a73156ca4ffc0eaed7c46c6
+2009-06-15T14:20:44.481880Z
+6
+wbushey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7875
+
+util
+dir
+
+validator
+dir
+
+vendor
+dir
+
+view
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional
+END
+FormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/FormTest.php
+END
+EnvironmentSetupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/EnvironmentSetupTest.php
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
+END
+sfDoctrineRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/sfDoctrineRecordTest.php
+END
+UniqueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/UniqueTest.php
+END
+PagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
+END

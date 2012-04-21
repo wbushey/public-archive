@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/database
+END
+sfPropelDataRetriever.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/database/sfPropelDataRetriever.class.php
+END
+sfPropelDatabase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/database/sfPropelDatabase.class.php
+END

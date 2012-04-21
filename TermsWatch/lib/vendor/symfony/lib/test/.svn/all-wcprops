@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test
+END
+sfTesterRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTesterRequest.class.php
+END
+sfTesterUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTesterUser.class.php
+END
+sfTester.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTester.class.php
+END
+sfTestBrowser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTestBrowser.class.php
+END
+sfTesterResponse.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTesterResponse.class.php
+END
+sfTesterForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTesterForm.class.php
+END
+sfTestFunctional.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTestFunctional.class.php
+END
+sfTestFunctionalBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTestFunctionalBase.class.php
+END
+sfTesterViewCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/test/sfTesterViewCache.class.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/propel.ini
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/ProjectConfiguration.class.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/databases.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/filters.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/properties.ini
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/config/view.yml
+END

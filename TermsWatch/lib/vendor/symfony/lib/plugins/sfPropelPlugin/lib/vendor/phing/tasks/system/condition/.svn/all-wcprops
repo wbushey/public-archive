@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition
+END
+OsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OsCondition.php
+END
+NotCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/NotCondition.php
+END
+OrCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OrCondition.php
+END
+Condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/Condition.php
+END
+ConditionBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ConditionBase.php
+END
+ContainsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ContainsCondition.php
+END
+EqualsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/EqualsCondition.php
+END
+IsFalseCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsFalseCondition.php
+END
+IsSetCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsSetCondition.php
+END
+IsTrueCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsTrueCondition.php
+END
+AndCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/AndCondition.php
+END
+ReferenceExistsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ReferenceExistsCondition.php
+END

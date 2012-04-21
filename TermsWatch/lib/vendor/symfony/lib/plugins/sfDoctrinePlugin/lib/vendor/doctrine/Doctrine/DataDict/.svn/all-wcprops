@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict
+END
+Pgsql.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Pgsql.php
+END
+Informix.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Informix.php
+END
+Mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Mssql.php
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Sqlite.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Oracle.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Exception.php
+END
+Firebird.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Firebird.php
+END
+Mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/DataDict/Mysql.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log
+END
+sfConsoleLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfConsoleLoggerTest.php
+END
+sfVarLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfVarLoggerTest.php
+END
+sfAggregateLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfAggregateLoggerTest.php
+END
+sfFileLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfFileLoggerTest.php
+END
+sfLoggerWrapperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfLoggerWrapperTest.php
+END
+sfLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfLoggerTest.php
+END
+sfStreamLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/log/sfStreamLoggerTest.php
+END

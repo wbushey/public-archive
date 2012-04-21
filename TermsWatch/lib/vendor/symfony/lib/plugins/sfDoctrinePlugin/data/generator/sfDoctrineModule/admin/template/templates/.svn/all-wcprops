@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates
+END
+_list_batch_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_batch_actions.php
+END
+_filters_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_filters_field.php
+END
+_form_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form_footer.php
+END
+_pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_pagination.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/editSuccess.php
+END
+_list_td_stacked.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_td_stacked.php
+END
+_list_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_actions.php
+END
+_filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_filters.php
+END
+_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list.php
+END
+_list_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_footer.php
+END
+_form_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form_field.php
+END
+_list_th_stacked.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_th_stacked.php
+END
+_flashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_flashes.php
+END
+_form_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form_actions.php
+END
+_list_field_boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_field_boolean.php
+END
+_assets.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_assets.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form.php
+END
+newSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/newSuccess.php
+END
+_form_fieldset.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form_fieldset.php
+END
+_form_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_form_header.php
+END
+_list_td_batch_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_td_batch_actions.php
+END
+_list_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_header.php
+END
+_list_td_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_td_actions.php
+END
+_list_td_tabular.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_td_tabular.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/indexSuccess.php
+END
+_list_th_tabular.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/_list_th_tabular.php
+END

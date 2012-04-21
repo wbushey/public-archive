@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
+END
+ProfileForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ProfileForm.class.php
+END
+UserPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserPermissionForm.class.php
+END
+ArticleTranslationForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleTranslationForm.class.php
+END
+AuthorForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AuthorForm.class.php
+END
+BaseFormDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BaseFormDoctrine.class.php
+END
+UserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserForm.class.php
+END
+SubscriptionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/SubscriptionForm.class.php
+END
+GroupPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/GroupPermissionForm.class.php
+END
+GroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/GroupForm.class.php
+END
+PermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/PermissionForm.class.php
+END
+UniqueTestForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UniqueTestForm.class.php
+END
+UserGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserGroupForm.class.php
+END
+ArticleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleForm.class.php
+END
+myDoctrineRecordForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/myDoctrineRecordForm.class.php
+END

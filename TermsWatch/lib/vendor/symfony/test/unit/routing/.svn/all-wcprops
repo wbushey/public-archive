@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing
+END
+sfObjectRouteCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing/sfObjectRouteCollectionTest.php
+END
+sfRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing/sfRouteTest.php
+END
+sfPatternRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing/sfPatternRoutingTest.php
+END
+sfPathInfoRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing/sfPathInfoRoutingTest.php
+END
+sfNoRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/routing/sfNoRoutingTest.php
+END

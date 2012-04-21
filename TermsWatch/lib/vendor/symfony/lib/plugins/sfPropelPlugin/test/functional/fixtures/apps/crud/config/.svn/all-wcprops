@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/filters.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/cache.yml
+END
+crudConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/crudConfiguration.class.php
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/view.yml
+END

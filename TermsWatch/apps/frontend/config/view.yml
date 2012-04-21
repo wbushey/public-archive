@@ -1,0 +1,23 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        TermsWatch
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:    [style.css]
+
+  javascripts:    []
+
+  has_layout:     on
+  layout:         layout
+
+produceSuccess:
+  http_metas:
+    content-type: text/xml
+    
+  layout:			rss

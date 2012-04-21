@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures
+END
+YtsTypeTransfers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsTypeTransfers.yml
+END
+YtsBlockMapping.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsBlockMapping.yml
+END
+sfMergeKey.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/sfMergeKey.yml
+END
+sfObjects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/sfObjects.yml
+END
+YtsAnchorAlias.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsAnchorAlias.yml
+END
+sfComments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/sfComments.yml
+END
+YtsNullsAndEmpties.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsNullsAndEmpties.yml
+END
+YtsBasicTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsBasicTests.yml
+END
+sfTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/sfTests.yml
+END
+YtsFlowCollections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsFlowCollections.yml
+END
+YtsFoldedScalars.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsFoldedScalars.yml
+END
+YtsErrorTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsErrorTests.yml
+END
+YtsDocumentSeparator.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsDocumentSeparator.yml
+END
+index.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/index.yml
+END
+YtsSpecificationExamples.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/fixtures/YtsSpecificationExamples.yml
+END

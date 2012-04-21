@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator
+END
+sfValidatorCallbackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorCallbackTest.php
+END
+sfValidatorSchemaCompareTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorSchemaCompareTest.php
+END
+sfValidatorNumberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorNumberTest.php
+END
+sfValidatorRegexTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorRegexTest.php
+END
+sfValidatorBooleanTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorBooleanTest.php
+END
+sfValidatorErrorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorErrorTest.php
+END
+sfValidatorErrorSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorErrorSchemaTest.php
+END
+sfValidatorSchemaForEachTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorSchemaForEachTest.php
+END
+sfValidatorTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorTimeTest.php
+END
+sfValidatorDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorDateTest.php
+END
+sfValidatorBaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorBaseTest.php
+END
+sfValidatorDateRangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorDateRangeTest.php
+END
+sfValidatorPassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorPassTest.php
+END
+sfValidatorStringTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorStringTest.php
+END
+sfValidatorUrlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorUrlTest.php
+END
+sfValidatorFromDescriptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorFromDescriptionTest.php
+END
+sfValidatorCSRFTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorCSRFTokenTest.php
+END
+sfValidatorAndTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorAndTest.php
+END
+sfValidatorSchemaFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorSchemaFilterTest.php
+END
+sfValidatorDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorDateTimeTest.php
+END
+sfValidatorFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorFileTest.php
+END
+sfValidatorDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorDecoratorTest.php
+END
+sfValidatorEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorEmailTest.php
+END
+sfValidatorChoiceManyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorChoiceManyTest.php
+END
+sfValidatorIntegerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorIntegerTest.php
+END
+sfValidatorChoiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorChoiceTest.php
+END
+sfValidatorSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorSchemaTest.php
+END
+sfValidatorOrTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/sfValidatorOrTest.php
+END

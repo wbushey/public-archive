@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpdoc
+END
+PhpDocumentorExternalTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpdoc/PhpDocumentorExternalTask.php
+END
+PhpDocumentorTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpdoc/PhpDocumentorTask.php
+END
+PhingPhpDocumentorSetup.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpdoc/PhingPhpDocumentorSetup.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel
+END
+FieldnameRelatedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/FieldnameRelatedTest.php
+END
+Ticket520Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/Ticket520Test.php
+END
+GeneratedNestedSetObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedNestedSetObjectTest.php
+END
+GeneratedObjectRelTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedObjectRelTest.php
+END
+CharacterEncodingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/CharacterEncodingTest.php
+END
+GeneratedNestedSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedNestedSetTest.php
+END
+GeneratedNestedSetPeerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedNestedSetPeerTest.php
+END
+GeneratedObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedObjectTest.php
+END
+BaseTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/BaseTestCase.php
+END
+GeneratedObjectLobTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedObjectLobTest.php
+END
+GeneratedPeerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/GeneratedPeerTest.php
+END

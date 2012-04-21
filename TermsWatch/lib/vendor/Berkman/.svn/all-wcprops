@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/termswatch/!svn/ver/18/trunk/lib/vendor/Berkman
+END
+crawler_db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/crawler_db.pl
+END
+BodyTextExtractor.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/BodyTextExtractor.py
+END
+scraper_cli.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/scraper_cli.pl
+END
+ElementChooserProxy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/21/trunk/lib/vendor/Berkman/ElementChooserProxy.pm
+END
+Scraper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/Scraper.pm
+END
+learn_tos.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/termswatch/!svn/ver/21/trunk/lib/vendor/Berkman/learn_tos.pl
+END
+TermswatchLWP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/termswatch/!svn/ver/21/trunk/lib/vendor/Berkman/TermswatchLWP.pm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/README
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/test/bootstrap
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/test/bootstrap/functional.php
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/test/bootstrap/unit.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/filters.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/cache.yml
+END
+i18nConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/i18nConfiguration.class.php
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/i18n/config/view.yml
+END

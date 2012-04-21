@@ -1,0 +1,41 @@
+propel:
+ company:
+   cid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   name:			varchar(255)
+   image_small:		varchar(128)
+   image_large:		varchar(128)
+ policy:
+   pid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   cid:				{ type: integer, required: true, foreignTable: company, foreignReference: cid, onDelete: cascade }
+   name:			{ type: varchar(255), required: true, default: '' }
+   url:				{ type: varchar(255), required: true, default: '' }
+   scrapeMethod:	{ type: tinyint, required: true, default: 0}
+   scrapeData:		{ type: longvarchar, required: true, default: '' }
+   spoof:			{ type: varchar(255), required: false }
+   pre:				{ type: tinyint, required: true }
+ version:
+   vid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   pid:				{ type: integer, required: true, foreignTable: policy, foreignReference: pid, onDelete: cascade }
+   retrievedAt:		{ type: timestamp, required: true}
+   flags:			{ type: integer, size: 2, required:true, default: 0 }
+   content:			{ type: clob, size:16777215, required: true }
+ log:
+   sid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   pid:				{ type: integer, required: true, foreignTable: policy, foreignReference: pid, onDelete: cascade }
+   timestamp:		{ type: timestamp, required: true }
+   outcome:			{ type: integer, required: true }
+   message: 		{ type: longvarchar, required: false}
+ user:
+   uid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   username:		{ type: varchar(64), required: true, index: true }
+   password:		{ type: varchar(64), required: true }
+ session:
+   sid:				{ type: integer, required: true, primaryKey: true, autoIncrement: true }
+   uid:				{ type: integer, required: true, default 0 }
+   timestamp:		{ type: timestamp, required: true }
+ TOS:
+   id:				{ type: integer, required: true, primaryKey: true, autoIncrement: true}
+   url:				{ type: longvarchar, required: true}
+   content: 		{ type: clob, size:16777215, required: true }
+   tos:				{ type: integer, required: true}
+ 

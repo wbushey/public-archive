@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model
+END
+Article.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Article.php
+END
+ArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ArticlePeer.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Category.php
+END
+CategoryPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/CategoryPeer.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Attachment.php
+END
+AttachmentPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AttachmentPeer.php
+END
+Book.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Book.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Author.php
+END
+AuthorArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorArticle.php
+END
+BookPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/BookPeer.php
+END
+AuthorArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorArticlePeer.php
+END
+AuthorPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorPeer.php
+END
+ProductI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductI18n.php
+END
+MovieI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MovieI18n.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Product.php
+END
+ProductI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductI18nPeer.php
+END
+Movie.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Movie.php
+END
+MovieI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MovieI18nPeer.php
+END
+ProductPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductPeer.php
+END
+MoviePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MoviePeer.php
+END

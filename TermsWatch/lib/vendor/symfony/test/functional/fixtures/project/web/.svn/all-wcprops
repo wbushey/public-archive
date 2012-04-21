@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web
+END
+cache_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/cache_dev.php
+END
+frontend_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/frontend_dev.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/i18n.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/robots.txt
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/cache.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/index.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/.htaccess
+END
+i18n_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/functional/fixtures/project/web/i18n_dev.php
+END

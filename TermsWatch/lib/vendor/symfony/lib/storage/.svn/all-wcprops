@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage
+END
+sfPostgreSQLSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfPostgreSQLSessionStorage.class.php
+END
+sfPDOSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfPDOSessionStorage.class.php
+END
+sfMySQLiSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfMySQLiSessionStorage.class.php
+END
+sfDatabaseSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfDatabaseSessionStorage.class.php
+END
+sfCacheSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfCacheSessionStorage.class.php
+END
+sfMySQLSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfMySQLSessionStorage.class.php
+END
+sfSessionTestStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfSessionTestStorage.class.php
+END
+sfNoStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfNoStorage.class.php
+END
+sfSessionStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfSessionStorage.class.php
+END
+sfStorage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/storage/sfStorage.class.php
+END

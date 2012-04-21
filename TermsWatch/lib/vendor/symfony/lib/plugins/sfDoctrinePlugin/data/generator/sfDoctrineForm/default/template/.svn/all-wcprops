@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template
+END
+sfDoctrineFormGeneratedTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormGeneratedTemplate.php
+END
+sfDoctrineFormTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormTemplate.php
+END
+sfDoctrineFormBaseTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormBaseTemplate.php
+END
+sfDoctrineFormPluginTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormPluginTemplate.php
+END
+sfDoctrinePluginFormTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrinePluginFormTemplate.php
+END

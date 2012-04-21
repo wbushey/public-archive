@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder
+END
+SfPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfPeerBuilder.php
+END
+SfMapBuilderBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfMapBuilderBuilder.php
+END
+SfObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfObjectBuilder.php
+END
+SfMultiExtendObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfMultiExtendObjectBuilder.php
+END
+SfExtensionPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfExtensionPeerBuilder.php
+END
+SfExtensionObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfExtensionObjectBuilder.php
+END
+SfNestedSetPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfNestedSetPeerBuilder.php
+END
+SfNestedSetBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/builder/SfNestedSetBuilder.php
+END

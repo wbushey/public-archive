@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/form
+END
+sfFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/form/sfFormFilter.class.php
+END
+sfFormField.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/form/sfFormField.class.php
+END
+sfFormFieldSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/form/sfFormFieldSchema.class.php
+END
+sfForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/form/sfForm.class.php
+END

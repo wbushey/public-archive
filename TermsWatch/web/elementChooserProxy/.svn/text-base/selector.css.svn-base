@@ -1,0 +1,31 @@
+#btw_submitContainer{
+	z-index: 2147483647;
+	position:fixed; 
+	bottom:0px; 
+	background: #ff0000;
+}
+
+.btw_selected{
+}
+
+.mask{
+	z-index: 2147483646;
+	position: absolute;
+	top: 0;
+	left: 0;
+	-moz-opacity: 0.5;
+	opacity: 0.50;
+	filter: alpha(opacity=50);
+	background-color: #0000FF;
+	width: 100%;
+	height: 100%;
+	zoom: 1;
+}
+
+.masked{
+	overflow: hidden !important;
+}
+
+.masked-relative{
+	position: relative !important;
+}

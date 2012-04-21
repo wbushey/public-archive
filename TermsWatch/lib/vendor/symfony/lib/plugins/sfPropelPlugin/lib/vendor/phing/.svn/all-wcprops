@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing
+END
+ConfigurationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/ConfigurationException.php
+END
+Project.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Project.php
+END
+TaskContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/TaskContainer.php
+END
+BuildLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildLogger.php
+END
+BuildException.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildException.php
+END
+BuildListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildListener.php
+END
+ProjectComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/ProjectComponent.php
+END
+Task.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Task.php
+END
+IntrospectionHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/IntrospectionHelper.php
+END
+Phing.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Phing.php
+END
+TaskAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/TaskAdapter.php
+END
+BuildEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildEvent.php
+END
+RuntimeConfigurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/RuntimeConfigurable.php
+END
+Target.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Target.php
+END
+UnknownElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/UnknownElement.php
+END

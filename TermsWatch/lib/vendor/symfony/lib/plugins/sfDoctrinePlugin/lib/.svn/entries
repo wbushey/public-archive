@@ -1,0 +1,115 @@
+10
+
+dir
+6
+https://adam.law.harvard.edu/svn/termswatch/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib
+https://adam.law.harvard.edu/svn/termswatch
+
+
+
+2009-06-15T14:20:44.481880Z
+6
+wbushey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7dbb92c7-a191-4935-8532-ee60cf0cb678
+
+
+
+
+
+
+0
+empty
+
+cli
+dir
+
+database
+dir
+
+debug
+dir
+
+form
+dir
+
+generator
+dir
+
+helper
+dir
+
+log
+dir
+
+pager
+dir
+
+record
+dir
+
+routing
+dir
+
+sfDoctrineException.class.php
+file
+
+
+
+
+2008-09-17T22:22:25.000000Z
+6f0b8d22c4fb8914744646ee9633e3f1
+2009-06-15T14:20:44.481880Z
+6
+wbushey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+655
+
+task
+dir
+
+test
+dir
+
+validator
+dir
+
+vendor
+dir
+
+widget
+dir
+

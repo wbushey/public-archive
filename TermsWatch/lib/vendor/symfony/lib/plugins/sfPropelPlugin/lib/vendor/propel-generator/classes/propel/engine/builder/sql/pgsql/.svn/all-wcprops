@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/pgsql
+END
+PgsqlDDLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/pgsql/PgsqlDDLBuilder.php
+END
+PgsqlDataSQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/pgsql/PgsqlDataSQLBuilder.php
+END

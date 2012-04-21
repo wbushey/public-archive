@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
+END
+GroupPermission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/GroupPermission.class.php
+END
+GroupTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/GroupTable.class.php
+END
+Permission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Permission.class.php
+END
+SubscriptionTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SubscriptionTable.class.php
+END
+UserGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UserGroup.class.php
+END
+UserPermissionTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UserPermissionTable.class.php
+END
+Article.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Article.class.php
+END
+ArticleTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ArticleTable.class.php
+END
+UserGroupTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UserGroupTable.class.php
+END
+UserPermission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UserPermission.class.php
+END
+Subscription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Subscription.class.php
+END
+Group.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Group.class.php
+END
+PermissionTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/PermissionTable.class.php
+END
+GroupPermissionTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/GroupPermissionTable.class.php
+END
+AuthorTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/AuthorTable.class.php
+END
+UniqueTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UniqueTest.class.php
+END
+UserTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UserTable.class.php
+END
+ProfileTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ProfileTable.class.php
+END
+Profile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Profile.class.php
+END
+Author.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Author.class.php
+END
+UniqueTestTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/UniqueTestTable.class.php
+END
+User.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/User.class.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base
+END
+BaseCompanyForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BaseCompanyForm.class.php
+END
+BaseUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BaseUserForm.class.php
+END
+BasePolicyForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BasePolicyForm.class.php
+END
+BaseScrapeForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BaseScrapeForm.class.php
+END
+BaseSessionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BaseSessionForm.class.php
+END
+BaseVersionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/termswatch/!svn/ver/11/trunk/lib/form/base/BaseVersionForm.class.php
+END

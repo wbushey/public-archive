@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/plugin/fixtures/http/pear.example.com
+END
+channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/plugin/fixtures/http/pear.example.com/channel.xml
+END

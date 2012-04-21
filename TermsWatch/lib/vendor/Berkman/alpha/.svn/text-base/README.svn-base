@@ -1,0 +1,9 @@
+This folder contains various projects that were initiated over the summer and are in various states of incompletion. These projects may prove to be useful, or completed, in the future.
+
+BTE_Perl - A Perl implementation of the BTE algorithm. This seems close to done, the code has been converted from Python to Perl, but the Perl implementation currently returns incorrect results.
+
+DomFinder - Perl implementation of an algorithm for finding the DOM element that contains a provided string. This is pretty broken, I had difficulty deciding what assumptions I was willing to accept (does the user provide only text that is in the page?)
+
+Multithread_Crawler - A multithread implementation of the crawler. I believe the script does run though all the policies, however the script itself does not terminate. Also, the script makes no attempt to share variables, this should be improved upon.
+
+TosDetector - An attempt at creating a bayes analysis based detector of TOS language.

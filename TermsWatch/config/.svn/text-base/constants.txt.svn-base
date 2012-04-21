@@ -1,0 +1,35 @@
+# DB Constants
+DB_DB = 'termswatch';
+DB_USERNAME = 'termswatch';
+DB_PASSWORD = 'termswatch';
+
+HOST = "http://localhost/";               # URL to the root of the host of ElementChooserProxy
+ROOT = "/home/bill/Development/workspace/TermsWatch/";
+ECP_DIR = "elementChooserProxy/";         # The directory that contains files needed by ElementChooserProxy, found at HOST
+JQUERY_URL = $HOST . $ECP_DIR . "jquery-1.3.2.min.js";              # URL to the jQuery library
+JQUERY_HIGHLIGHT_URL = $HOST . $ECP_DIR . "jquery.highlight.js";    # URL to the highlight plugin
+SELECTOR_JS_URL = $HOST . $ECP_DIR . "selector.js";                 # URL to the selector javascript
+SELECTOR_CSS_URL = $HOST . $ECP_DIR . "selector.css";               # Path to the css used by the modified page
+SPOOF_LINK = $HOST . "frontend_dev.php/addTerms/spoof";          # URL of the link that a user clicks to spoof the user agent
+SUBMIT_CONTAINER_PATH = $ROOT . "lib/vendor/Berkman/elementChooserProxy/submitContainer.html";        # Path to the html used to insert the submittion div
+
+
+# Constants for Log Outcome
+LOG_SCRAPE_ERROR = -2;
+LOG_CONNECTION_ERROR = -1;
+LOG_NOTHING = 0;                  # No errors or updates occured, so nothing interesting happened.
+LOG_NEW = 1;
+LOG_UPDATE = 2;
+
+# Constants for the old logging system
+OUTCOME_NOCHANGES = 0;
+OUTCOME_FIRSTSCRAPE = 1;
+OUTCOME_CHANGESFOUND = 2;
+OUTCOME_ERROR = 3;
+ADJUSTED_DELETED = 4;
+ADJUSTED_NEWFIRST = 5;
+WAYBACK = 6;
+OUTCOME_ERROR_EMPTY = 7;
+OUTCOME_ERROR_REGEX = 8;
+OUTCOME_ERROR_INSERT_REVISION = 9;
+OUTCOME_ERROR_INSERT_NEW = 10;

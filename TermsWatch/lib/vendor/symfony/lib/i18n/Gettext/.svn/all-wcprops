@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/Gettext
+END
+TGettext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/Gettext/TGettext.class.php
+END
+PO.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/Gettext/PO.php
+END
+MO.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/Gettext/MO.php
+END

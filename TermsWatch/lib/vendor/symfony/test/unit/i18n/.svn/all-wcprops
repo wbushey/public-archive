@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n
+END
+sfMessageSource_XLIFFTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfMessageSource_XLIFFTest.php
+END
+sfCultureInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfCultureInfoTest.php
+END
+dataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/dataTest.php
+END
+sfChoiceFormatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfChoiceFormatTest.php
+END
+sfMessageSource_FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfMessageSource_FileTest.php
+END
+sfMessageSource_SQLiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfMessageSource_SQLiteTest.php
+END
+sfMessageSourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfMessageSourceTest.php
+END
+sfMessageSource_AggregateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfMessageSource_AggregateTest.php
+END
+sfI18NTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfI18NTest.php
+END
+sfNumberFormatInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/i18n/sfNumberFormatInfoTest.php
+END

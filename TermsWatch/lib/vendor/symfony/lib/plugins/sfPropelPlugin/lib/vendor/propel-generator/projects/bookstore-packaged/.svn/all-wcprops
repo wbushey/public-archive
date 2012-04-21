@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged
+END
+review.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/review.schema.xml
+END
+runtime-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/runtime-conf.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/build.properties
+END
+log.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/log.schema.xml
+END
+media.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/media.schema.xml
+END
+book_club_list.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/book_club_list.schema.xml
+END
+publisher.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/publisher.schema.xml
+END
+author.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/author.schema.xml
+END
+book.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/book.schema.xml
+END

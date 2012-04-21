@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config
+END
+sfConfigCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfConfigCache.class.php
+END
+sfYamlConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfYamlConfigHandler.class.php
+END
+sfPluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfPluginConfiguration.class.php
+END
+sfProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfProjectConfiguration.class.php
+END
+sfViewConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfViewConfigHandler.class.php
+END
+sfFactoryConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfFactoryConfigHandler.class.php
+END
+sfRootConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfRootConfigHandler.class.php
+END
+sfConfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfConfig.class.php
+END
+sfConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfConfigHandler.class.php
+END
+sfRoutingConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfRoutingConfigHandler.class.php
+END
+sfSecurityConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfSecurityConfigHandler.class.php
+END
+sfApplicationConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfApplicationConfiguration.class.php
+END
+sfCacheConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfCacheConfigHandler.class.php
+END
+sfDatabaseConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfDatabaseConfigHandler.class.php
+END
+sfSimpleYamlConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfSimpleYamlConfigHandler.class.php
+END
+sfFilterConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfFilterConfigHandler.class.php
+END
+sfAutoloadConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfAutoloadConfigHandler.class.php
+END
+sfDefineEnvironmentConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfDefineEnvironmentConfigHandler.class.php
+END
+sfLoader.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfLoader.class.php
+END
+sfPluginConfigurationGeneric.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfPluginConfigurationGeneric.class.php
+END
+sfCompileConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfCompileConfigHandler.class.php
+END
+sfGeneratorConfigHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/sfGeneratorConfigHandler.class.php
+END

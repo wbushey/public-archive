@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/unit/config/fixtures/sfValidatorConfigHandler
+END
+standard_format.yml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/unit/config/fixtures/sfValidatorConfigHandler/standard_format.yml
+END
+alternate_format.yml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/unit/config/fixtures/sfValidatorConfigHandler/alternate_format.yml
+END

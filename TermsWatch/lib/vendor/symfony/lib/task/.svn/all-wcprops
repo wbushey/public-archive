@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task
+END
+sfCommandApplicationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/sfCommandApplicationTask.class.php
+END
+sfFilesystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/sfFilesystem.class.php
+END
+sfTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/sfTask.class.php
+END
+sfBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/sfBaseTask.class.php
+END

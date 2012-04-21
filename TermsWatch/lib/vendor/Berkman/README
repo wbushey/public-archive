@@ -1,0 +1,21 @@
+This folder contains much of the work that occured over the summer of 2009. Many of these files, especially the modules, are fairly well commented. The files and folders included are:
+
+
+alpha - Folder containing various side projects that are largely incomplete or non-working, but may be built upon and be useful in the future.
+
+BodyTextExtractor.py - A modified Python script that uses heuristics to find the main body of a web page. In the future this should be replaced with a perl implementation, but for the time being the python version is used in a very hacky way.
+
+crawler_db.pl - Perl script that runs though all of the policies available in the database, retrieves the live version of those policies, and updates the database if the policy is found to have changed.
+
+elementChooserProxy - Folder that contains support files for ElementChooserProxy.pm
+
+ElementChooserProxy.pm - Perl module that creates a proxy that injects javascript, html, and css into the requested page, allowing the user to select a dom element on the requested page.
+
+learn_tos.pl - Perl script that is used for working on the TosDetector. This script is mainly used as a means of interacting with tables that will be used by the TosDetector for learning TOS.
+
+scraper_cli.pl - Perl script, a command line interface to the TermswatchLWP and Scraper modules. A user can provide the script with a url, user_agent_string, a scrape method, and scrape data and the script will retrieve the page and print out the scraped portion of the page.
+
+Scraper.pm - Scraper class implemented as a perl module. The class currently includes three ways of scraping a page: regex, DOM element extraction, and BTE (which currently is a hacking together of perl and python.)
+
+TermswatchLWP.pm - A wrapper class of Perl's LWP library written specifically for TermsWatch. The class includes the default user_agent_string for TermsWatch and a retrievePage method that handles 'refresh' response header.
+

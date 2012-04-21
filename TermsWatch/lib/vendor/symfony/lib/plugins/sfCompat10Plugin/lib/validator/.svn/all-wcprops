@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator
+END
+sfRegexValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfRegexValidator.class.php
+END
+sfStringValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfStringValidator.class.php
+END
+sfValidatorManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfValidatorManager.class.php
+END
+sfValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfValidator.class.php
+END
+sfCompareValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfCompareValidator.class.php
+END
+sfDateValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfDateValidator.class.php
+END
+sfFileValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfFileValidator.class.php
+END
+sfNumberValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfNumberValidator.class.php
+END
+sfUrlValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfUrlValidator.class.php
+END
+sfEmailValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfEmailValidator.class.php
+END
+sfCallbackValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/validator/sfCallbackValidator.class.php
+END

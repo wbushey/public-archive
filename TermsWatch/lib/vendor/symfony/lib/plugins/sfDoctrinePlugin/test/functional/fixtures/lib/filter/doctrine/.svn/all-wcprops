@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine
+END
+UniqueTestFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UniqueTestFormFilter.class.php
+END
+UserGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UserGroupFormFilter.class.php
+END
+ArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleFormFilter.class.php
+END
+myDoctrineRecordFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/myDoctrineRecordFormFilter.class.php
+END
+ProfileFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ProfileFormFilter.class.php
+END
+UserPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UserPermissionFormFilter.class.php
+END
+ArticleTranslationFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleTranslationFormFilter.class.php
+END
+AuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorFormFilter.class.php
+END
+BaseFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BaseFormFilterDoctrine.class.php
+END
+UserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UserFormFilter.class.php
+END
+SubscriptionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/SubscriptionFormFilter.class.php
+END
+GroupPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/GroupPermissionFormFilter.class.php
+END
+GroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/GroupFormFilter.class.php
+END
+PermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/PermissionFormFilter.class.php
+END

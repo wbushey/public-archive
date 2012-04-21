@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/engine/database/model
+END
+ColumnTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/engine/database/model/ColumnTest.php
+END
+TableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/engine/database/model/TableTest.php
+END
+NameFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/classes/propel/engine/database/model/NameFactoryTest.php
+END

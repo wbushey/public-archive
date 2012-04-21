@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/filters.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/cache.yml
+END
+backend_compatConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/backend_compatConfiguration.class.php
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/config/view.yml
+END

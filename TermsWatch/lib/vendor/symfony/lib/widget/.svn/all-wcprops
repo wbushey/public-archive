@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget
+END
+sfWidgetFormSchemaFormatterList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchemaFormatterList.class.php
+END
+sfWidgetFormSchemaForEach.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchemaForEach.class.php
+END
+sfWidgetFormSchemaFormatter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchemaFormatter.class.php
+END
+sfWidgetFormInput.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInput.class.php
+END
+sfWidgetFormInputFileEditable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInputFileEditable.class.php
+END
+sfWidgetFormInputCheckbox.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInputCheckbox.class.php
+END
+sfWidgetFormDateRange.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormDateRange.class.php
+END
+sfWidgetFormTextarea.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormTextarea.class.php
+END
+sfWidgetFormDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormDateTime.class.php
+END
+sfWidgetFormSelectMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSelectMany.class.php
+END
+sfWidget.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidget.class.php
+END
+sfWidgetFormFilterInput.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormFilterInput.class.php
+END
+sfWidgetFormSelect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSelect.class.php
+END
+sfWidgetFormInputHidden.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInputHidden.class.php
+END
+sfWidgetFormSelectCheckbox.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSelectCheckbox.class.php
+END
+sfWidgetForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetForm.class.php
+END
+sfWidgetFormChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormChoiceMany.class.php
+END
+sfWidgetFormChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormChoice.class.php
+END
+sfWidgetFormSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchema.class.php
+END
+sfWidgetFormSchemaDecorator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchemaDecorator.class.php
+END
+sfWidgetFormSchemaFormatterTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSchemaFormatterTable.class.php
+END
+sfWidgetFormFilterDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormFilterDate.class.php
+END
+sfWidgetFormSelectRadio.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormSelectRadio.class.php
+END
+sfWidgetFormTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormTime.class.php
+END
+sfWidgetFormDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormDate.class.php
+END
+sfWidgetFormInputPassword.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInputPassword.class.php
+END
+sfWidgetFormInputFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/widget/sfWidgetFormInputFile.class.php
+END

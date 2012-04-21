@@ -1,0 +1,26 @@
+dev:
+  propel:
+    class: sfPropelDatabase
+    param:
+      classname: PropelPDO
+      dsn: 'mysql:dbname=termswatch;host=localhost'
+      username: termswatch
+      password: termswatch
+      encoding: utf8
+      persistent: true
+      pooling: true
+test:
+  propel:
+    param:
+      classname: DebugPDO
+all:
+  propel:
+    class: sfPropelDatabase
+    param:
+      classname: PropelPDO
+      dsn: 'mysql:dbname=termswatch;host=localhost'
+      username: termswatch
+      password: termswatch
+      encoding: utf8
+      persistent: true
+      pooling: true

@@ -1,0 +1,13 @@
+This folder contains an attempt at creating a bayes analysis based Terms Of Service detector.
+
+analyse_policyDB.pl - Script that does a simple word count of one version of every policy in the database and prints out a list of all words (minus common words) and the number of times they appear in the the scanned policies.
+
+bayes_learn.pl - A simple script that tells TosDetector:Structure to learn TOS and NONTOS from the database.
+
+fb.html & fb_tos.html - Sample pages for testing the TosDetector.
+
+structure_state.dat - The saved state of the TosDector:Structure class. The state contains what has been learned for both TOS and NONTOS.
+
+TosDetector_Structure_test.pl - A simple script for testing the TosDector:Structure class.
+
+TosDetector - A folder containing TOS Detectors that are based on bayes analysis. This folder currently only has one file.

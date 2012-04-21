@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon
+END
+sfPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropel.class.php
+END
+sfPropelBehavior.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelBehavior.class.php
+END
+sfMixer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfMixer.class.php
+END
+sfPropelManyToMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelManyToMany.class.php
+END
+sfPropelPager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelPager.class.php
+END
+sfPropelData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelData.class.php
+END
+sfPropelAutoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelAutoload.php
+END
+sfPropelDatabaseSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/addon/sfPropelDatabaseSchema.class.php
+END

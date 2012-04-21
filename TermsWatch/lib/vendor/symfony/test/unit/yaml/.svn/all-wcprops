@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml
+END
+sfYamlParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/sfYamlParserTest.php
+END
+sfYamlDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/sfYamlDumperTest.php
+END
+sfYamlInlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/yaml/sfYamlInlineTest.php
+END

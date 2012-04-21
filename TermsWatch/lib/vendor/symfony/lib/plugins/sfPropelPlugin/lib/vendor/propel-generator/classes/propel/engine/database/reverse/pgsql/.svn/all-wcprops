@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse/pgsql
+END
+PgsqlSchemaParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse/pgsql/PgsqlSchemaParser.php
+END

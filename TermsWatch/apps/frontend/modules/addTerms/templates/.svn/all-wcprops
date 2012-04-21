@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/termswatch/!svn/ver/21/trunk/apps/frontend/modules/addTerms/templates
+END
+okSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/21/trunk/apps/frontend/modules/addTerms/templates/okSuccess.php
+END
+submitPolicySuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/21/trunk/apps/frontend/modules/addTerms/templates/submitPolicySuccess.php
+END
+getMetadataSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/21/trunk/apps/frontend/modules/addTerms/templates/getMetadataSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/21/trunk/apps/frontend/modules/addTerms/templates/indexSuccess.php
+END
+confirmSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/22/trunk/apps/frontend/modules/addTerms/templates/confirmSuccess.php
+END

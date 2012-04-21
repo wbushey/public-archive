@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/alpha/DomFinder
+END
+DomFinder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/alpha/DomFinder/DomFinder.pm
+END
+test_findDom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/22/trunk/lib/vendor/Berkman/alpha/DomFinder/test_findDom.pl
+END

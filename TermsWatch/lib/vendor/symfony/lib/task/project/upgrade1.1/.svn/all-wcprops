@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1
+END
+sfComponentUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfComponentUpgrade.class.php
+END
+sfTestUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfTestUpgrade.class.php
+END
+sfLoggerUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfLoggerUpgrade.class.php
+END
+sfViewCacheManagerUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfViewCacheManagerUpgrade.class.php
+END
+sfEnvironmentUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfEnvironmentUpgrade.class.php
+END
+sfFlashUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfFlashUpgrade.class.php
+END
+sfLayoutUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfLayoutUpgrade.class.php
+END
+sfPropelUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfPropelUpgrade.class.php
+END
+sfSingletonUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfSingletonUpgrade.class.php
+END
+sfSettingsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfSettingsUpgrade.class.php
+END
+sfConfigUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfConfigUpgrade.class.php
+END
+sfFactoriesUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfFactoriesUpgrade.class.php
+END
+sfUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfUpgrade.class.php
+END
+sfWebDebugUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfWebDebugUpgrade.class.php
+END
+sfConfigFileUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/project/upgrade1.1/sfConfigFileUpgrade.class.php
+END

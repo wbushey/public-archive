@@ -1,0 +1,96 @@
+10
+
+dir
+6
+https://adam.law.harvard.edu/svn/termswatch/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/frontend/modules
+https://adam.law.harvard.edu/svn/termswatch
+
+
+
+2009-06-15T14:20:44.481880Z
+6
+wbushey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7dbb92c7-a191-4935-8532-ee60cf0cb678
+
+
+
+
+
+
+0
+empty
+
+assetInclusion
+dir
+
+auth
+dir
+
+autoload
+dir
+
+browser
+dir
+
+configFiltersSimpleFilter
+dir
+
+configModuleDisabled
+dir
+
+configSecurityIsSecure
+dir
+
+configSecurityIsSecureAction
+dir
+
+configSettingsMaxForwards
+dir
+
+configViewHasLayout
+dir
+
+cookie
+dir
+
+escaping
+dir
+
+exception
+dir
+
+filter
+dir
+
+format
+dir
+
+notfound
+dir
+
+presentation
+dir
+
+renderText
+dir
+
+sfConfigPlugin
+dir
+
+view
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/filters.yml
+END
+ApplicationConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/ApplicationConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/view.yml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter
+END
+MovieFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/MovieFormFilter.class.php
+END
+AttachmentFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/AttachmentFormFilter.class.php
+END
+ArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/ArticleFormFilter.class.php
+END
+BookFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/BookFormFilter.class.php
+END
+AuthorArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/AuthorArticleFormFilter.class.php
+END
+AuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/AuthorFormFilter.class.php
+END
+ProductI18nFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/ProductI18nFormFilter.class.php
+END
+CategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/CategoryFormFilter.class.php
+END
+MovieI18nFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/MovieI18nFormFilter.class.php
+END
+ProductFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/filter/ProductFormFilter.class.php
+END

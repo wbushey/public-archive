@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/configuration.php
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/newAction.php
+END
+actionsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/actionsConfiguration.php
+END
+sortingAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/sortingAction.php
+END
+filtersConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/filtersConfiguration.php
+END
+paginationConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/paginationConfiguration.php
+END
+fieldsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/fieldsConfiguration.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/updateAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/editAction.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/deleteAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/indexAction.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/processFormAction.php
+END
+filterAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/filterAction.php
+END
+batchAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/batchAction.php
+END
+paginationAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/paginationAction.php
+END
+filtersAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/filtersAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/createAction.php
+END
+sortingConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/sortingConfiguration.php
+END

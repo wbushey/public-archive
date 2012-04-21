@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin
+END
+sfPearRest10.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearRest10.class.php
+END
+sfPearRest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearRest.class.php
+END
+sfPearRest11.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearRest11.class.php
+END
+sfPearDownloader.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearDownloader.class.php
+END
+sfPearFrontendPlugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearFrontendPlugin.class.php
+END
+sfPluginDependencyException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPluginDependencyException.class.php
+END
+sfPearRestPlugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearRestPlugin.class.php
+END
+sfSymfonyPluginManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfSymfonyPluginManager.class.php
+END
+sfPluginRestException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPluginRestException.class.php
+END
+sfPluginManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPluginManager.class.php
+END
+sfPluginRecursiveDependencyException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPluginRecursiveDependencyException.class.php
+END
+sfPluginException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPluginException.class.php
+END
+sfPearEnvironment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearEnvironment.class.php
+END
+sfPearConfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugin/sfPearConfig.class.php
+END

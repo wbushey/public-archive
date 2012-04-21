@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/modules/error/actions
+END
+actions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/modules/error/actions/actions.class.php
+END

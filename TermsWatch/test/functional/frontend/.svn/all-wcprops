@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/termswatch/!svn/ver/6/trunk/test/functional/frontend
+END
+versionActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/15/trunk/test/functional/frontend/versionActionsTest.php
+END
+addTermsActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/21/trunk/test/functional/frontend/addTermsActionsTest.php
+END
+diffActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/termswatch/!svn/ver/16/trunk/test/functional/frontend/diffActionsTest.php
+END
+organizationActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/14/trunk/test/functional/frontend/organizationActionsTest.php
+END
+policyActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/termswatch/!svn/ver/15/trunk/test/functional/frontend/policyActionsTest.php
+END
+rssActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/termswatch/!svn/ver/16/trunk/test/functional/frontend/rssActionsTest.php
+END
+timelineActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/11/trunk/test/functional/frontend/timelineActionsTest.php
+END
+aboutActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/termswatch/!svn/ver/16/trunk/test/functional/frontend/aboutActionsTest.php
+END
+sidebarActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/13/trunk/test/functional/frontend/sidebarActionsTest.php
+END

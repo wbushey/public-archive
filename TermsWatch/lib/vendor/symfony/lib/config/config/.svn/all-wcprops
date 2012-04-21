@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config
+END
+config_handlers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/config_handlers.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/filters.yml
+END
+module.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/module.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/security.yml
+END
+core_compile.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/core_compile.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/settings.yml
+END
+autoload.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/autoload.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/config/config/view.yml
+END

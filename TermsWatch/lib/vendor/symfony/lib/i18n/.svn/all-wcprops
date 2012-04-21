@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n
+END
+sfIMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfIMessageSource.class.php
+END
+sfMessageSource_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_File.class.php
+END
+sfMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource.class.php
+END
+sfMessageSource_Aggregate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_Aggregate.class.php
+END
+sfI18N.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfI18N.class.php
+END
+sfMessageSource_MySQL.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_MySQL.class.php
+END
+sfDateTimeFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfDateTimeFormatInfo.class.php
+END
+sfMessageSource_gettext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_gettext.class.php
+END
+sfNumberFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfNumberFormat.class.php
+END
+sfDateFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfDateFormat.class.php
+END
+sfMessageSource_SQLite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_SQLite.class.php
+END
+sfNumberFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfNumberFormatInfo.class.php
+END
+sfMessageSource_XLIFF.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_XLIFF.class.php
+END
+sfCultureInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfCultureInfo.class.php
+END
+sfChoiceFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfChoiceFormat.class.php
+END
+sfMessageFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageFormat.class.php
+END
+sfMessageSource_Database.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/i18n/sfMessageSource_Database.class.php
+END

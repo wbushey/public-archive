@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/user
+END
+sfSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/user/sfSecurityUser.class.php
+END
+sfUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/user/sfUser.class.php
+END
+sfBasicSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php
+END

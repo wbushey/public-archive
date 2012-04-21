@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/14/trunk/apps/frontend/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/filters.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/frontendConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/apps/frontend/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/16/trunk/apps/frontend/config/view.yml
+END

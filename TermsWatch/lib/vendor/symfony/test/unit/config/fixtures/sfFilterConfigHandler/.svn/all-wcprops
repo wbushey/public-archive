@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler
+END
+disable.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/disable.yml
+END
+not_disabled.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/not_disabled.yml
+END
+no_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_class.yml
+END
+no_execution.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_execution.yml
+END
+condition.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/condition.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/filters.yml
+END
+default_filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/default_filters.yml
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/result.php
+END
+no_rendering.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_rendering.yml
+END

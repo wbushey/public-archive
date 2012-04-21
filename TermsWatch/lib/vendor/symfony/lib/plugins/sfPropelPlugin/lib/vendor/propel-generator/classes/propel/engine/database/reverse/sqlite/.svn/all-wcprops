@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse/sqlite
+END
+SqliteSchemaParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse/sqlite/SqliteSchemaParser.php
+END

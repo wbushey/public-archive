@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util
+END
+sfBrowserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfBrowserTest.php
+END
+sfFinderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfFinderTest.php
+END
+sfNamespacedParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfNamespacedParameterHolderTest.php
+END
+sfCallableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfCallableTest.php
+END
+sfInflectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfInflectorTest.php
+END
+sfToolkitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfToolkitTest.php
+END
+sfContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfContextTest.php
+END
+sfParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfParameterHolderTest.php
+END
+sfDomCssSelectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/util/sfDomCssSelectorTest.php
+END

@@ -1,0 +1,3 @@
+This folder contains TOS detectors that are based on bayesian filters. 
+
+Structure.pm - A TOS detector that is learns the text and HTML of both TOS and NONTOS. The idea is that TOS may contain not only words that are more likely to show up in TOS but also HTML tags that are more likely to show up in TOS.

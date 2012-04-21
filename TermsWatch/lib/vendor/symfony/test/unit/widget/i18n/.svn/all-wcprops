@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n
+END
+sfWidgetFormI18nDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nDateTimeTest.php
+END
+sfWidgetFormI18nSelectCurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nSelectCurrencyTest.php
+END
+sfWidgetFormI18nTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nTimeTest.php
+END
+sfWidgetFormI18nDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nDateTest.php
+END
+sfWidgetFormI18nSelectLanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nSelectLanguageTest.php
+END
+sfWidgetFormI18nSelectCountryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/i18n/sfWidgetFormI18nSelectCountryTest.php
+END

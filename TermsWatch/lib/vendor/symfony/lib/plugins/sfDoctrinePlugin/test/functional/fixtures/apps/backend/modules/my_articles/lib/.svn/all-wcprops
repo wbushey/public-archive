@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend/modules/my_articles/lib
+END
+my_articlesGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend/modules/my_articles/lib/my_articlesGeneratorHelper.class.php
+END
+my_articlesGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend/modules/my_articles/lib/my_articlesGeneratorConfiguration.class.php
+END

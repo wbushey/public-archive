@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/termswatch/!svn/ver/11/trunk/data/sql
+END
+sqldb.map
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/termswatch/!svn/ver/11/trunk/data/sql/sqldb.map
+END
+lib.model.schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/23/trunk/data/sql/lib.model.schema.sql
+END

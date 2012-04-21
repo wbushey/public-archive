@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/bootstrap
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/bootstrap/functional.php
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/bootstrap/unit.php
+END
+task.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/bootstrap/task.php
+END

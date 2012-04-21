@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/log
+END
+sfLogClearTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/log/sfLogClearTask.class.php
+END
+sfLogRotateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/log/sfLogRotateTask.class.php
+END

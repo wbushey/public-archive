@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command
+END
+sfAnsiColorFormatter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfAnsiColorFormatter.class.php
+END
+sfCommandArgumentSet.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandArgumentSet.class.php
+END
+sfCommandOption.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandOption.class.php
+END
+sfSymfonyCommandApplication.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfSymfonyCommandApplication.class.php
+END
+sfCommandArgumentsException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandArgumentsException.class.php
+END
+sfCommandArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandArgument.class.php
+END
+sfCommandManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandManager.class.php
+END
+sfCommandOptionSet.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandOptionSet.class.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/cli.php
+END
+sfCommandException.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandException.class.php
+END
+sfFormatter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfFormatter.class.php
+END
+sfCommandApplication.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandApplication.class.php
+END
+sfCommandLogger.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/command/sfCommandLogger.class.php
+END

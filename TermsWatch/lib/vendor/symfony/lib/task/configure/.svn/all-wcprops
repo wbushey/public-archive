@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/configure
+END
+sfConfigureAuthorTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/configure/sfConfigureAuthorTask.class.php
+END
+sfConfigureDatabaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/lib/task/configure/sfConfigureDatabaseTask.class.php
+END

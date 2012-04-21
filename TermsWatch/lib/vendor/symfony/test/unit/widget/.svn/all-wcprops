@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget
+END
+sfWidgetFormSelectRadioTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSelectRadioTest.php
+END
+sfWidgetFormTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormTimeTest.php
+END
+sfWidgetFormDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormDateTest.php
+END
+sfWidgetFormInputPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputPasswordTest.php
+END
+sfWidgetFormInputFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputFileTest.php
+END
+sfWidgetFormSchemaFormatterListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaFormatterListTest.php
+END
+sfWidgetFormSchemaForEachTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaForEachTest.php
+END
+sfWidgetFormSchemaFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaFormatterTest.php
+END
+sfWidgetFormInputFileEditableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputFileEditableTest.php
+END
+sfWidgetFormInputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputTest.php
+END
+sfWidgetFormInputCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputCheckboxTest.php
+END
+sfWidgetFormTextareaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormTextareaTest.php
+END
+sfWidgetFormDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormDateTimeTest.php
+END
+sfWidgetFormSelectManyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSelectManyTest.php
+END
+sfWidgetFormSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSelectTest.php
+END
+sfWidgetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetTest.php
+END
+sfWidgetFormInputHiddenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormInputHiddenTest.php
+END
+sfWidgetFormSelectCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSelectCheckboxTest.php
+END
+sfWidgetFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormTest.php
+END
+sfWidgetFormChoiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormChoiceTest.php
+END
+sfWidgetFormSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaTest.php
+END
+sfWidgetFormSchemaDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaDecoratorTest.php
+END
+sfWidgetFormSchemaFormatterTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/widget/sfWidgetFormSchemaFormatterTableTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/i18n
+END
+sfValidatorI18nChoiceLanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/i18n/sfValidatorI18nChoiceLanguageTest.php
+END
+sfValidatorI18nChoiceCountryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/termswatch/!svn/ver/6/trunk/lib/vendor/symfony/test/unit/validator/i18n/sfValidatorI18nChoiceCountryTest.php
+END
